@@ -244,15 +244,17 @@ function quizResultView() {
   const s = el(`
     <section class="screen quiz quizr" style="--wc:${world.color};--wcd:${darken(world.color, 0.5)};--wt:${world.text}">
       <div class="reveal">
-        <div class="r-eyebrow">YOUR IT HERO</div>
         <img class="r-char" src="assets/archetypes/${esc(state.quizResultWorld)}.png" alt="${esc(arch.name)}" onerror="this.remove()">
         <div class="r-badge">${icon(arch.icon)}</div>
-        <h1 class="r-name">${esc(arch.name)}</h1>
-        <p class="r-blurb">${esc(arch.blurb)}</p>
-        <div class="r-actions">
-          <button class="r-go">See your matches &rarr;</button>
-          <button class="r-email">Email my results</button>
-          <button class="r-retake">Retake quiz</button>
+        <div class="r-info">
+          <div class="r-eyebrow">YOUR IT HERO</div>
+          <h1 class="r-name">${esc(arch.name)}</h1>
+          <p class="r-blurb">${esc(arch.blurb)}</p>
+          <div class="r-actions">
+            <button class="r-go">See your matches &rarr;</button>
+            <button class="r-email">Email my results</button>
+            <button class="r-retake">Retake quiz</button>
+          </div>
         </div>
       </div>
     </section>`);
