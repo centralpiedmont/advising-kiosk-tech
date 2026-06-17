@@ -1,0 +1,221 @@
+{
+  "label": "Career Training &amp; Certifications",
+  "short": "Continuing Education",
+  "tagline": "Short, hands-on, non-credit training that gets you certified and job-ready — in person or live online.",
+  "color": "#D65F00",
+  "text": "#FFFFFF",
+  "registerUrl": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=21614430",
+  "contactEmail": "sandra.torres@cpcc.edu",
+  "source": "CPCC Continuing Education — Information Technology (Live Instructor Sessions)",
+  "categories": [
+    {
+      "name": "Cybersecurity",
+      "courses": [
+        {
+          "code": "CCT-ITS7526",
+          "name": "Cybersecurity Analyst",
+          "courseId": "19770989",
+          "price": 185,
+          "hours": 140,
+          "desc": "Advance your cybersecurity career with comprehensive training in CompTIA Security+ and CySA+. Learn essential skills in threat detection, incident response, risk management, and security analytics to protect against cyber threats and earn globally recognized certifications."
+        },
+        {
+          "code": "CCT-ITS7527",
+          "name": "CompTIA Security+ &amp; PenTest+",
+          "courseId": "27361965",
+          "price": 185,
+          "hours": 120,
+          "desc": "Prepare for cybersecurity success with our dual CompTIA Security+ and PenTest+ certification training. Gain hands-on experience in IT security, vulnerability assessment, and penetration testing. Learn from experts and earn industry-recognized certifications to advance your career in cybersecurity."
+        },
+        {
+          "code": "CCT-ITS7535",
+          "name": "CISSP Training",
+          "courseId": "35767260",
+          "price": 185,
+          "hours": 120,
+          "desc": "Prepare for the CISSP certification with our comprehensive 8-week training program. Master all eight CISSP domains, gain real-world cybersecurity knowledge, and get ready to pass the ISC2 CISSP exam on your first attempt."
+        },
+        {
+          "code": "CCT-ITS7540",
+          "name": "CompTIA SecAI+ Training",
+          "courseId": "48604508",
+          "price": null,
+          "hours": null,
+          "desc": "CompTIA SecAI+ Training prepares cybersecurity and IT professionals to secure AI systems, assess AI-specific risks, defend against AI-enabled attacks, and apply governance and compliance controls. Aligned with the CompTIA SecAI+ (CY0001) certification, this course focuses on practical AI security and enterprise risk management."
+        }
+      ]
+    },
+    {
+      "name": "Cloud &amp; Networking",
+      "courses": [
+        {
+          "code": "NET-ITS7512",
+          "name": "CompTIA Network+",
+          "courseId": "19768922",
+          "price": null,
+          "hours": null,
+          "desc": "Advance your IT career with the CompTIA Network+ Certification Training. Gain hands-on skills in network infrastructure, routing, switching, wireless technologies, and security to securely establish, maintain, and troubleshoot modern networks. This vendor-neutral certification is a critical foundation for cybersecurity and IT support roles. Stay ahead with industry-relevant training and prepare for the CompTIA Network+ exam. Enroll today!"
+        },
+        {
+          "code": "NET-ITS7520",
+          "name": "Cisco CCNA Training",
+          "courseId": "19767031",
+          "price": 185,
+          "hours": 240,
+          "desc": ""
+        },
+        {
+          "code": "NET-ITS7541",
+          "name": "AWS Cloud Foundations",
+          "courseId": "29433821",
+          "price": 185,
+          "hours": 60,
+          "desc": "Enroll in the AWS Cloud Foundations course to build a strong understanding of cloud computing and AWS services. This online course covers AWS infrastructure, security, pricing, and architecture, preparing you for the AWS Certified Cloud Practitioner exam. Gain hands-on experience with interactive labs and expert-led instruction."
+        },
+        {
+          "code": "NET-ITS7543",
+          "name": "AWS Cloud Security",
+          "courseId": "29434290",
+          "price": 185,
+          "hours": 60,
+          "desc": "Gain essential cloud security knowledge with the AWS Cloud Security Foundations course. Learn AWS security principles, identity and access management, data protection, monitoring, and incident response. Hands-on labs and real-world scenarios prepare you for AWS security certifications and advanced learning."
+        },
+        {
+          "code": "NET-ITS7545",
+          "name": "AWS Cloud Architecting",
+          "courseId": "29435225",
+          "price": null,
+          "hours": null,
+          "desc": "Master AWS cloud architecture with the AWS Academy Cloud Architecting course. Learn to design scalable, secure, and cost-efficient cloud solutions using AWS services. Gain hands-on experience with networking, compute, storage, and automation while preparing for the AWS Certified Solutions Architect – Associate exam."
+        },
+        {
+          "code": "NET-ITS7547",
+          "name": "AWS Cloud Operations",
+          "courseId": "29435282",
+          "price": 185,
+          "hours": 120,
+          "desc": "Develop essential cloud operations skills with the AWS Academy Cloud Operations course. Learn to deploy, manage, and troubleshoot AWS environments using AWS tools, automation frameworks, and best practices. Gain hands-on experience in security, networking, and monitoring while preparing for the AWS Certified SysOps Administrator – Associate exam."
+        },
+        {
+          "code": "NET-ITS7549",
+          "name": "AWS Cloud Developing",
+          "courseId": "29435370",
+          "price": 185,
+          "hours": 120,
+          "desc": "Learn to develop, deploy, and secure cloud-based applications with the AWS Academy Cloud Developing course. Gain hands-on experience with AWS SDKs, APIs, serverless architectures, and cloud-native best practices. Prepare for the AWS Certified Developer – Associate certification with real-world labs and guided exercises."
+        }
+      ]
+    },
+    {
+      "name": "Data &amp; AI",
+      "courses": [
+        {
+          "code": "BAS-DAT7500",
+          "name": "Excel Business Analytics",
+          "courseId": "19900439",
+          "price": 185,
+          "hours": 120,
+          "desc": "Master Excel for business analytics with comprehensive training in data manipulation, visualization, and advanced modeling techniques. Learn predictive and prescriptive analytics to drive data-driven decisions and gain actionable insights across industries."
+        },
+        {
+          "code": "BAS-DAT7711",
+          "name": "SQL Business Analytics",
+          "courseId": "19875941",
+          "price": 185,
+          "hours": 120,
+          "desc": "Build a strong foundation in relational database design, SQL querying, business intelligence, and advanced analytics. This comprehensive course covers data management, security, visualization, and real-world applications using Tableau or Power BI, preparing you to support data-driven decision-making across industries."
+        },
+        {
+          "code": "BAS-DAT7735",
+          "name": "Power BI Certification",
+          "courseId": "38761418",
+          "price": 185,
+          "hours": 120,
+          "desc": "Master Microsoft Power BI in this fully online course. Learn to prepare data, build models, create dashboards, and share insights. Designed for PL-300 certification exam prep."
+        },
+        {
+          "code": "BAS-MLA7900",
+          "name": "AI Foundations",
+          "courseId": "26460953",
+          "price": 185,
+          "hours": 52,
+          "desc": ""
+        },
+        {
+          "code": "CSC-PRG7915",
+          "name": "Python for Data Analytics",
+          "courseId": "48601559",
+          "price": 185,
+          "hours": 115,
+          "desc": "Beginning Python Data Analytics is a hands-on course that teaches data analysis using Python, Pandas, NumPy, SQL, and data visualization tools. Learn to clean, analyze, visualize, and manage real-world data from files, databases, APIs, and spreadsheets using industry-standard analytics workflows."
+        },
+        {
+          "code": "DBA-DAT7705",
+          "name": "Google Data Analytics Certificate",
+          "courseId": "11791790",
+          "price": 185,
+          "hours": 192,
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "name": "Programming",
+      "courses": [
+        {
+          "code": "CSC-PRG7911",
+          "name": "Python Programming",
+          "courseId": "19874554",
+          "price": null,
+          "hours": null,
+          "desc": "Boost your career with our Python Programming course designed for adult learners and career changers. Learn Python coding, data analysis, automation, and software development through hands-on projects and expert instruction. No prior experience needed — start your journey into tech today!"
+        },
+        {
+          "code": "CSC-PRG7933",
+          "name": "Java API Development",
+          "courseId": "19771166",
+          "price": null,
+          "hours": null,
+          "desc": "Master Java programming and API development in this hands-on course covering core Java, object-oriented principles, RESTful web services, and Spring framework. Ideal for aspiring and professional developers."
+        }
+      ]
+    },
+    {
+      "name": "IT Support &amp; Digital",
+      "courses": [
+        {
+          "code": "CTS-ITS7511",
+          "name": "IT Support Technician",
+          "courseId": "19768270",
+          "price": 185,
+          "hours": 200,
+          "desc": "Launch your IT career with this comprehensive IT Support Technician course. Covering CompTIA Tech+ and A+ content, you&#039;ll gain hands-on skills in troubleshooting, networking, security, operating systems, and more—preparing you for in-demand IT support roles and certifications."
+        },
+        {
+          "code": "CTS-DMG7005",
+          "name": "Google Digital Marketing &amp; E-Commerce",
+          "courseId": "25642091",
+          "price": 185,
+          "hours": 190,
+          "desc": "Gain essential skills for entry-level roles in digital marketing and e-commerce with the Google Digital Marketing & E-Commerce Certificate. Learn tools like Shopify and Canva, build a professional portfolio, and prepare to drive growth and enhance online presence. Self-paced online course with expert support included."
+        },
+        {
+          "code": "DFT-CAD7100",
+          "name": "AutoCAD Certificate",
+          "courseId": "35020539",
+          "price": 185,
+          "hours": 192,
+          "desc": "Gain job-ready skills in technical drawing, blueprint reading, and 2D CAD drafting with our hands-on AutoCAD Certificate course. Prepare for Autodesk Certified User (ACU) exam in just 10 weeks with in-person training designed for engineers, drafters, and technicians."
+        },
+        {
+          "code": "OST-BTC8010",
+          "name": "Workplace Tech Skills",
+          "courseId": "20003696",
+          "price": null,
+          "hours": null,
+          "desc": "Become a tech-savvy professional with our flexible Digital Literacy & Microsoft Office course. Learn essential computer skills, Office apps, and online communication tools—in the classroom, online, or at your own pace."
+        }
+      ]
+    }
+  ]
+}

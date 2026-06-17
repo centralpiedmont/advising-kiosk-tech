@@ -1,0 +1,26 @@
+version: "2"
+services:
+  kiosk:
+    build: .
+    restart: always
+    environment:
+      PORT: "8080"
+      KIOSK_DATA_DIR: "/data"
+      # SMTP_HOST / SMTP_PORT / SMTP_USER / SMTP_PASS / MAIL_FROM set as balena fleet vars
+    volumes:
+      - leads:/data
+    expose:
+      - "8080"
+  browser:
+    image: bh.cr/balenalabs/browser-aarch64   # Pi 5 = aarch64; use -amd64 / -arm32 for other archs
+    privileged: true
+    restart: always
+    environment:
+      LAUNCH_URL: "http://kiosk:8080"
+      KIOSK: "1"
+      PERSISTENT: "1"
+      ENABLE_GPU: "1"
+    ports:
+      - "5011"
+volumes:
+  leads: {}

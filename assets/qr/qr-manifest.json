@@ -1,0 +1,197 @@
+[
+  {
+    "id": "artificial-intelligence",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/artificial-intelligence.pdf"
+  },
+  {
+    "id": "softwareeng-app-dev",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/softwareeng-app-dev.pdf"
+  },
+  {
+    "id": "softwareeng-full-stack",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/softwareeng-full-stack.pdf"
+  },
+  {
+    "id": "dataanalysis-analysis",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/dataanalysis-analysis.pdf"
+  },
+  {
+    "id": "dataanalysis-visualization",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/dataanalysis-visualization.pdf"
+  },
+  {
+    "id": "dataanalysis-google",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/dataanalysis-google.pdf"
+  },
+  {
+    "id": "cybersecurity-forensics",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/cybersecurity-forensics.pdf"
+  },
+  {
+    "id": "cybersecurity-redteam",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/cybersecurity-redteam.pdf"
+  },
+  {
+    "id": "cybersecurity-blueteam",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/cybersecurity-blueteam.pdf"
+  },
+  {
+    "id": "it-technical-support",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/it-technical-support.pdf"
+  },
+  {
+    "id": "cloud-networking",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/cloud-networking.pdf"
+  },
+  {
+    "id": "sgd-3d-modeling",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/sgd-3d-modeling.pdf"
+  },
+  {
+    "id": "sgd-design",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/sgd-design.pdf"
+  },
+  {
+    "id": "sgd-programming",
+    "type": "degree-sheet",
+    "url": "https://frazier-at-cpcc.github.io/cpcc-it-degree-sheets/sheets/sgd-programming.pdf"
+  },
+  {
+    "id": "info-session",
+    "type": "info-session",
+    "url": "https://forms.office.com/pages/responsepage.aspx?id=kftMRq3oAUCotWOPZymUNXQqV-xPK0xLl_usffYhEe1UNkNEWERTT1ZTOVlHVlJDUkg2REdaR1UyTC4u&route=shorturl"
+  },
+  {
+    "id": "ce-register",
+    "type": "ce-register",
+    "url": "https://continuinged.cpcc.edu/public/category/programArea.do?method=load&selectedProgramAreaId=21614430"
+  },
+  {
+    "id": "ce-CCT-ITS7526",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19770989"
+  },
+  {
+    "id": "ce-CCT-ITS7527",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=27361965"
+  },
+  {
+    "id": "ce-CCT-ITS7535",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=35767260"
+  },
+  {
+    "id": "ce-CCT-ITS7540",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=48604508"
+  },
+  {
+    "id": "ce-NET-ITS7512",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19768922"
+  },
+  {
+    "id": "ce-NET-ITS7520",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19767031"
+  },
+  {
+    "id": "ce-NET-ITS7541",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29433821"
+  },
+  {
+    "id": "ce-NET-ITS7543",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29434290"
+  },
+  {
+    "id": "ce-NET-ITS7545",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435225"
+  },
+  {
+    "id": "ce-NET-ITS7547",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435282"
+  },
+  {
+    "id": "ce-NET-ITS7549",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=29435370"
+  },
+  {
+    "id": "ce-BAS-DAT7500",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19900439"
+  },
+  {
+    "id": "ce-BAS-DAT7711",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19875941"
+  },
+  {
+    "id": "ce-BAS-DAT7735",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=38761418"
+  },
+  {
+    "id": "ce-BAS-MLA7900",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=26460953"
+  },
+  {
+    "id": "ce-CSC-PRG7915",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=48601559"
+  },
+  {
+    "id": "ce-DBA-DAT7705",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=11791790"
+  },
+  {
+    "id": "ce-CSC-PRG7911",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19874554"
+  },
+  {
+    "id": "ce-CSC-PRG7933",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19771166"
+  },
+  {
+    "id": "ce-CTS-ITS7511",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=19768270"
+  },
+  {
+    "id": "ce-CTS-DMG7005",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=25642091"
+  },
+  {
+    "id": "ce-DFT-CAD7100",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=35020539"
+  },
+  {
+    "id": "ce-OST-BTC8010",
+    "type": "ce-course",
+    "url": "https://continuinged.cpcc.edu/search/publicCourseSearchDetails.do?method=load&courseId=20003696"
+  }
+]

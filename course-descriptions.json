@@ -1,0 +1,1166 @@
+{
+ "CCT 110": {
+  "title": "Intro to Cyber Crime",
+  "desc": "This course introduces the various types of offenses that qualify as cyber crime activity. Emphasis is placed on identifying cyber crime activities and the response to these problems from both the private and public domains. Upon completion, students should be able to accurately describe and define cyber crime activities and select an appropriate response to deal with the problem."
+ },
+ "CCT 112": {
+  "title": "Ethics & High Technology",
+  "desc": "This course introduces the ethical considerations and best practices for conducting technological investigations and addressing computer privacy concerns in the realm of cyber crime. Topics include the legal, ethical, moral, and privacy aspects applying high technology to cyber crime investigations. Upon completion students should be able to critically assess their ethical values and apply them effectively in cyber crime investigations."
+ },
+ "CCT 121": {
+  "title": "Computer Crime Invest.",
+  "desc": "This course introduces the fundamental principles of computer crime investigation processes. Topics include crime scene/incident processing, information gathering techniques, data retrieval, collection and preservation of evidence, preparation of reports and court presentations. Upon completion, students should be able to identify cyber crime activity and demonstrate proper investigative techniques to process the scene and assist in case prosecution."
+ },
+ "CCT 220": {
+  "title": "Forensic Accounting",
+  "desc": "This course introduces the basic principles and procedures of investigative accounting and anyalysis of financial evidence. Emphasis is placed on collecting data and evidence, evaluation of internal control systems, accounting systems, concealed income analysis and fraud detection. Upon completion, students should be able to apply generally accepted accounting standards and procedures for conducting a criminal investigation audit for financial information."
+ },
+ "CCT 231": {
+  "title": "Technology Crimes & Law",
+  "desc": "This course covers the applicable technological laws dealing with the regulation of cyber security, artificial intelligence, and criminal activity. Topics include the examination of state, federal and international laws regarding cyber crime with an emphasis on both general and North Carolina statutes. Upon completion, students should be able to identify the elements of cyber crime activity and discuss the trends of evolving laws."
+ },
+ "CCT 240": {
+  "title": "Data Recovery Techniques",
+  "desc": "This course introduces the unique skills and methodologies necessary to assist in the investigation and prosecution of cyber crimes. Topics include hardware and software issues, recovering erased files, overcoming encryption, advanced imaging, transient data, Internet issues and testimony considerations. Upon completion, students should be able to recover digital evidence, extract information for criminal investigation and legally seize criminal evidence."
+ },
+ "CCT 241": {
+  "title": "Advanced Data Recovery",
+  "desc": "This course further explores the methodologies necessary to assist in the investigation and analysis of cyber crimes. Topics include commercial and open-source software tools for working with evidence acquisition, data recovery, and encryption. Upon completion, students should be able to perform the data recovery and analysis for a complete criminal or corporate investigation."
+ },
+ "CCT 250": {
+  "title": "Network Vulnerabilities I",
+  "desc": "This course introduces students to penetration testing, network vulnerabilities, and hacking. Topics include an overview of traditional network security, system hardening, and known weaknesses. Upon completion, students should be able to evaluate weaknesses of traditional and wireless network for the purpose of incident response, reconstruction, and forensic investigation."
+ },
+ "CCT 251": {
+  "title": "Network Vulnerabilities II",
+  "desc": "This course advances students' knowledge of penetration testing, network vulnerabilities, and hacking. Topics include analyzing advanced techniques for circumventing network security hardware and software. Upon completion, students should be able to assemble test kits for multiple operating systems, scan and footprint networks, and perform advanced forensic investigation."
+ },
+ "CCT 260": {
+  "title": "Mobile Phone Examination",
+  "desc": "This course introduces the unique skills and methodologies necessary to assist in the investigation and prosecution of cyber crimes involving mobile phones. Topics include the basics of the cellular networks as well as data extraction from GSM, IDEN and CDMA handsets. Upon completion, students should be able to use the course processes and methodologies to obtain forensic evidence from GSM, IDEN and CDMA handsets."
+ },
+ "CCT 271": {
+  "title": "Mac Digital Forensics",
+  "desc": "This course provides students with the unique knowledge and skills necessary to analyze Macintosh operating system artifacts and file system mechanics. Topics include Macintosh architecture, HFS (+) based file systems, Macintosh decryption, address book and chat archives, Internet artifacts related to Safari and Firefox. Upon completion, students will be able to use the course processes and methodologies to forensically analyze a Mac computer."
+ },
+ "CCT 272": {
+  "title": "Forensic Password Recov",
+  "desc": "This course introduces the unique skills and methodologies necessary to assist in the investigation and prosecution of cyber crimes involving decryption. Topics include decryption of PGP key rings, private keys, EFS hard drives, and encrypted containers. Upon completion, students will be able to use the course processes and methodologies to obtain forensic evidence from encrypted files, folders, and systems."
+ },
+ "CCT 273": {
+  "title": "Registry Forensics",
+  "desc": "This course provides unique skills and methodologies necessary to assist in the investigation and prosecution of cyber crimes involving the Windows registry. Emphasis is placed on the processes used to locate registry artifacts, including security, SAM, software, system, and NT user data. Upon completion, students should be able to use the course processes and methodologies to obtain forensic evidence from a Windows registry."
+ },
+ "CCT 280": {
+  "title": "Cloud Penetration Testing",
+  "desc": "This course provides students the technical skills required to perform penetration tests in cloud environments. Topics include penetration testing commonly deployed in cloud environments such as operating systems, web servers, databases, and virtual containers/networks, while ensuring the integrity of user access multiple levels. Upon completion, students should be able to perform penetration tests to evaluate the overall security of cloud environments."
+ },
+ "CCT 285": {
+  "title": "Trends in Cyber Crime",
+  "desc": "This course covers and explores advances and developments in cyber crime technologies. Emphasis is placed on computer forensics tools, information protection and security, threat response, and professional development. Upon completion, students should be able to articulate understanding of the current state of the industry as well as emerging technologies for cyber crime technology."
+ },
+ "CCT 289": {
+  "title": "Cyber Crime Capstone Project",
+  "desc": "This course provides experience in cyber crime investigations or technology security audits in either the public or private domain. Emphasis is placed on student involvement with businesses or agencies dealing with technology security issues or computer crime activities. Upon completion, students should be able to successfully analyze, retrieve erased evidence and testify in mock proceedings against these criminal entrepreneurs."
+ },
+ "CIS 070": {
+  "title": "Fundamentals of Computing",
+  "desc": "This course covers fundamental functions and operations of the computer. Topics include identification of components, overview of operating systems, and other basic computer operations. Upon completion, students should be able to operate computers, access files, print documents and perform basic applications operations."
+ },
+ "CIS 110": {
+  "title": "Introduction to Computers",
+  "desc": "This course introduces computer concepts, including fundamental functions and operations of the computer. Topics include identification of hardware components, basic computer operations, security issues, and use of software applications. Upon completion, students should be able to demonstrate an understanding of the role and function of computers and use the computer to solve problems."
+ },
+ "CIS 111": {
+  "title": "Basic PC Literacy",
+  "desc": "This course provides an overview of computer concepts. Emphasis is placed on the use of personal computers and software applications for personal and fundamental workplace use. Upon completion, students should be able to demonstrate basic personal computer skills."
+ },
+ "CIS 113": {
+  "title": "Computer Basics",
+  "desc": "This course introduces basic computer usage for non-computer majors. Emphasis is placed on developing basic personal computer skills. Upon completion, students should be able to demonstrate competence in basic computer applications."
+ },
+ "CIS 114": {
+  "title": "Survey of Cybersec. Concepts",
+  "desc": "This course provides a survey of cybersecurity concepts. Topics include an introduction to cybersecurity, device security, internet security, compliance, and privacy. Upon completion, students should be able to demonstrate knowledge of best security practices."
+ },
+ "CIS 115": {
+  "title": "Intro to Prog & Logic",
+  "desc": "This course introduces computer programming and problem solving in a structured program logic environment. Topics include language syntax, data types, program organization, problem solving methods, algorithm design, and logic control structures. Upon completion, students should be able to use top-down algorithm design and implement algorithmic solutions in a programming language."
+ },
+ "CIS 117": {
+  "title": "Survey of Mobile Apps W/ Swift",
+  "desc": "This course introduces mobile application development using Swift as a programming language for building apps in numerous industries and work environments. Topics include the functional concepts of Swift programming and its use for developing basic mobile applications in a business environment. Upon completion, students should be able to utilize Swift programming to develop and deploy a basic mobile application."
+ },
+ "CIS 119": {
+  "title": "Survey of Artificial Intel.",
+  "desc": "This course introduces students to artificial intelligence concepts. Topics include artificial intelligence concepts, applications, and ethics. Upon completion, students should be able to demonstrate the use of artificial intelligence and its ethical impacts in a variety of settings."
+ },
+ "CIS 140": {
+  "title": "Applied Supportive Tech",
+  "desc": "This course prepares students to support technologies in a variety of industries through project-based learning. Emphasis is placed on the use of Integrative Supportive Technologies which includes simulations, hardware, software, virtual reality, scientific testing devices, space science technologies, artificial intelligence, gamification technologies, and converting numeric equations and values. Upon completion, students should be able to utilize Integrative Supportive Technologies to perform a variety of quantitative computations and sophisticated calculations in different industries and environments."
+ },
+ "CIS 150": {
+  "title": "Google IT Support I",
+  "desc": "This course introduces students to the concepts, tools, templates, and artifacts used to support an IT environment using Google resources. Emphasis is placed on fundamental IT support methodology including troubleshooting, customer support, networking, system administration, operating systems, and security. Upon completion, students should be able to provide general support for an IT based network within a business environment."
+ },
+ "CIS 155": {
+  "title": "Database Theory/Analysis",
+  "desc": "This course introduces database design theories and analyses. Emphasis is placed on data dictionaries, normalization, data integrity, and data modeling. Upon completion, students should be able to design normalized database structures which exhibit data integrity."
+ },
+ "CIS 160": {
+  "title": "MM Resources Integration",
+  "desc": "This course introduces the peripherals and attendant software needed to create stand-alone or networked interactive multimedia applications. Emphasis is placed on using audio, video, graphic, and network resources; using peripheral-specific software; and understanding file formats. Upon completion, students should be able to utilize multimedia peripherals to create various sound and visual files to create a multimedia application."
+ },
+ "CIS 162": {
+  "title": "MM Presentation Software",
+  "desc": "This course is designed to integrate visual and audio resources using presentation software in a simple interactive multimedia project. Emphasis is placed upon design and audience considerations, general prototyping, and handling of media resources. Upon completion, students should be able to demonstrate an original interactive multimedia presentation implementing all of these resources in a professional manner."
+ },
+ "CIS 164": {
+  "title": "DTP Layout & Design",
+  "desc": "This course introduces the fundamentals of design and page layout. Emphasis is placed on page layout organization, typography, and color. Upon completion, students should be able to create projects that visually enhance communication."
+ },
+ "CIS 250": {
+  "title": "Google IT Support II",
+  "desc": "This course provides students with the continuation of concepts covered in CIS-150 to support an IT environment using Google resources. Emphasis is placed on fundamental IT support methodology including troubleshooting, customer support, networking, system administration, operating systems, and security. Upon completion, students should be able to provide advanced support for an IT based network within a business environment."
+ },
+ "CIS 277": {
+  "title": "Network Design & Imp",
+  "desc": "This course focuses on the design, analysis, and integration of a network operating system. Topics include determination of a directory tree structure and object placement, creation of time synchronization strategy, security, and routing services. Upon completion, students should be able to implement a network design strategy, develop a migration strategy, and create a network implementation schedule."
+ },
+ "CSC 111": {
+  "title": "Intro to Ethical Hacking",
+  "desc": "This course introduces computer programming students to the foundations of ethical hacking. Topics include security policies, common vulnerabilities, penetration testing methodology, and hacking concepts using computer programming and scripting techniques. Upon completion, students should be able to describe the computer programming aspects of ethical hacking in an organization's overall security framework."
+ },
+ "CSC 112": {
+  "title": "Machine Learning Computation",
+  "desc": "This course covers the underlying foundations upon which machine learning solutions are created. Emphasis is placed on the mathematical foundations of machine learning concepts. Upon completion, students should be able to apply the underlying computations of machine learning systems."
+ },
+ "CSC 113": {
+  "title": "Artificial Intel. Fundamentals",
+  "desc": "This course provides a survey of artificial intelligence and machine learning. Topics include the history, development, and current applications of artificial intelligence and machine learning. Upon completion, students should be able to demonstrate general artificial intelligence and machine learning concepts."
+ },
+ "CSC 114": {
+  "title": "Artificial Intelligence I",
+  "desc": "This course covers the study of intelligent agent design and rational decision making. Topics include goal-driven agents, search techniques, optimization, basic problem-solving methods, logic, knowledge-based agents, statistical and probabilistic reasoning, and the basics of machine learning. Upon completion, students should be able to demonstrate artificial intelligence design concepts."
+ },
+ "CSC 115": {
+  "title": "Machine Learning I",
+  "desc": "This course covers algorithms for enabling artificial systems. Topics include machine learning from experience, supervised and unsupervised learning, reinforcement learning control, and learning theory. Upon completion, students should be able to demonstrate machine-learning techniques."
+ },
+ "CSC 116": {
+  "title": "Intro to Functional Prog.",
+  "desc": "This course introduces the concepts of functional programming. Emphasis is placed on using functions and procedures for the fundamental building blocks of a program. Upon completion, students should be able to program in a style that emphasizes the evaluation of an expression rather than the execution of commands."
+ },
+ "CSC 117": {
+  "title": "Artificial Intel. Tools I",
+  "desc": "This course covers modern artificial intelligence tools, concepts, and technologies. Topics include theory and hands-on training across multiple artificial intelligence subdomains. Upon completion, students should be able to implement Al platforms that could improve safety, efficiency, accuracy, problem-solving, cost-savings, and the creation of new business opportunities."
+ },
+ "CSC 118": {
+  "title": "Swift Programming I",
+  "desc": "This course introduces the development of iOS applications and Apple applications using Swift programming language. Emphasis is placed on syntax, object-oriented principles, memory management, and functional concepts of Swift programming. Upon completion, students should be able to develop fully functional iOS and Apple applications using Swift programming language."
+ },
+ "CSC 120": {
+  "title": "Computing Fundamentals I",
+  "desc": "This course provides the essential foundation for the discipline of computing and a program of study in computer science, including the role of the professional. Topics include algorithm design, data abstraction, searching and sorting algorithms, and procedural programming techniques. Upon completion, students should be able to solve problems, develop algorithms, specify data types, perform sorts and searches, and use an operating system."
+ },
+ "CSC 121": {
+  "title": "Python Programming",
+  "desc": "This course introduces computer programming using the Python programming language. Emphasis is placed on common algorithms and programming principles utilizing the standard library distributed with Python. Upon completion, students should be able to design, code, test, and debug Python language programs."
+ },
+ "CSC 122": {
+  "title": "Python Application Development",
+  "desc": "This course introduces the use of frameworks to build web-enabled applications. Emphasis is placed on URL routing, output format templating, database manipulation and security. Upon completion, students should be able to create simple web-enabled applications with a graphical user interface using the Python language."
+ },
+ "CSC 123": {
+  "title": "R Programming",
+  "desc": "This course introduces statistical and graphical programming using the R programming language. Emphasis is placed on data analysis, data visualization, and data science. Upon completion, students should be able to perform data analysis through programming, transforming, discovering, modeling, and communicating results within the R programming language."
+ },
+ "CSC 124": {
+  "title": "Intro to Data Science Prog.",
+  "desc": "This course covers the key technologies used to manipulate, store and analyze big data. Topics include scripting languages, noSQL databases, database scalability, performance metrics and tuning. Upon completion, students should be able to use programming techniques to investigate data sets and algorithms."
+ },
+ "CSC 125": {
+  "title": "Secure Coding",
+  "desc": "This course provides an approach for dealing with security and privacy throughout the software development lifecycle. Emphasis is placed on security issues a developer faces, common security vulnerabilities and flaws, and security threats. Upon completion, students should be able to implement general security strategies, secure software design, and the incorporation of information security throughout all phases of software development."
+ },
+ "CSC 128": {
+  "title": "Chatbot Programming I",
+  "desc": "This course covers chatbot development using industry standard programming tools. Topics include conversational interfaces, agents, natural language processing, and artificial intelligence. Upon completion, students should be able to demonstrate entry-level chatbot development skills."
+ },
+ "CSC 130": {
+  "title": "Computing Fundamentals II",
+  "desc": "This course provides in-depth coverage of the discipline of computing and the role of the professional. Topics include software design methodologies, analysis of algorithm and data structures, searching and sorting algorithms, and file organization methods. Upon completion, students should be able to use software design methodologies and choice of data structures and understand social/ethical responsibilities of the computing professional."
+ },
+ "CSC 133": {
+  "title": "C Programming",
+  "desc": "This course introduces computer programming using the C programming language with structured programming principles. Topics include input/output operations, iteration, arithmetic operations, arrays, pointers, filters, and other related topics. Upon completion, students should be able to design, code, test and debug at a beginning level."
+ },
+ "CSC 134": {
+  "title": "C++ Programming",
+  "desc": "This course introduces computer programming using the C++ programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test and debug at a beginning level."
+ },
+ "CSC 135": {
+  "title": "COBOL Programming",
+  "desc": "This course introduces computer programming using the COBOL programming language with structured programming principles. Topics include input/output operations, iteration, arithmetic operations, arrays, pointers, filters, and other related topics. Upon completion, students should be able to design, code, test and debug at a beginning level."
+ },
+ "CSC 139": {
+  "title": "Visual BASIC Programming",
+  "desc": "This course introduces computer programming using the Visual BASIC programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test and debug at a beginning level."
+ },
+ "CSC 141": {
+  "title": "Visual C++ Programming",
+  "desc": "This course introduces computer programming using the Visual C++ programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment at a beginning level."
+ },
+ "CSC 143": {
+  "title": "Object-Oriented Prog",
+  "desc": "This course introduces the concepts of object-oriented programming. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, test, debug, and implement objects at the application level using the appropriate environment."
+ },
+ "CSC 151": {
+  "title": "JAVA Programming",
+  "desc": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion students should be able to design, code, test, debug JAVA language programs."
+ },
+ "CSC 152": {
+  "title": "SAS",
+  "desc": "This course introduces the fundamentals of SAS programming. Emphasis is placed on learning basic SAS commands and statements for solving a variety of data processing applications. Upon completion, students should be able to use SAS data and procedure steps to create SAS data sets, do statistical analysis, and general customized reports."
+ },
+ "CSC 153": {
+  "title": "C# Programming",
+  "desc": "This course introduces computer programming using the C# programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment at the beginning level."
+ },
+ "CSC 154": {
+  "title": "Software Development",
+  "desc": "This course covers the fundamentals of software development. Emphasis is placed on the full spectrum of team software development methodologies, software development project management, version control, issue tracking, regression testing, automated build and deployment. Upon completion, students should be able to work in a team environment and apply software development methodologies and software quality assurance principles."
+ },
+ "CSC 155": {
+  "title": "Natural Language Processing",
+  "desc": "This course covers methods and algorithms for natural language processing. Topics include the linguistic, probabilistic, statistical, and the underlying computational properties of natural languages and algorithms used in natural language processing. Upon completion, students should be able to demonstrate an understanding of how natural language processing is implemented in artificial intelligence."
+ },
+ "CSC 161": {
+  "title": "Deep Learning",
+  "desc": "This course covers deep learning foundations and deep learning platforms. Topics include neural networks, vectorization, machine learning, artificial intelligence, and computations underlying deep learning. Upon completion, students should be able to demonstrate an understanding of how neural networks are developed and are implemented in machine learning."
+ },
+ "CSC 162": {
+  "title": "Computer Vision",
+  "desc": "This course provides an introduction to the fundamentals of computer vision. Topics include image classification, motion tracking, imaging geometry, image formation, feature detection, feature matching, classical machine learning, and deep learning. Upon completion, students should be able to apply computer vision design and technologies in various applications"
+ },
+ "CSC 163": {
+  "title": "C# Application Development",
+  "desc": "This course introduces the use of web-enabled applications and web services in the development of C# based applications. Emphasis is placed on creating web-enabled applications using event driven programming, graphical user interface design, database connectivity, and software development principles. Upon completion, students should be able to create web-enabled applications with a graphical user interface using the C# language."
+ },
+ "CSC 174": {
+  "title": "Server-Side Javascript",
+  "desc": "This course introduces the use of JavaScript in the server environment to build server-side applications. Topics include asynchronous programming, connecting to other machines, testing, and connecting to different databases. Upon completion, students should be able to create server-side applications using JavaScript applications."
+ },
+ "CSC 211": {
+  "title": "Ethical Hacking With Python I",
+  "desc": "This course introduces students to investigative ethical hacking techniques using the Python programming language. Emphasis is placed on using Python in gaining system access, cryptography, reconnaissance, enumeration, and buffer overflows. Upon completion, students should be able to understand system vulnerabilities and applications of the Python computer programming language to ethical hacking."
+ },
+ "CSC 212": {
+  "title": "Ethical Hacking With Python II",
+  "desc": "This course covers advanced investigative ethical hacking techniques using the Python programming language. Emphasis is placed on advanced web attacks with Python, scanning, maintaining access, covering tracks, malware delivery, password cracking, and keylogging with Python. Upon completion, students should be able to evaluate and mitigate system vulnerabilities and threats using the Python computer programming language."
+ },
+ "CSC 214": {
+  "title": "Artificial Intelligence II",
+  "desc": "This course covers techniques for planning, learning, and decision making under uncertainty and in multi-agent environments. Topics include the design of intelligent agents to solve real-world problems including, search, machine learning, and logic. Upon completion, students should be able to demonstrate advanced artificial intelligence design concepts."
+ },
+ "CSC 215": {
+  "title": "Machine Learning II",
+  "desc": "This course covers machine learning and algorithm essentials to help improve learning from patterns without human intervention. Topics include the exploration of recent applications of machine learning, design and development of algorithms for machines. Upon completion, students should be able to demonstrate advanced machine-learning techniques."
+ },
+ "CSC 216": {
+  "title": "Software Architecture",
+  "desc": "This course covers the fundamentals of N-tier and Web API software architectures through the exploration of various data access methodologies. Topics include presentation, middle/business and data tiers (N-tier), Web APIs and XML. Upon completion, students should be able to discuss the differences and similarities between N-tier and other software architectures."
+ },
+ "CSC 217": {
+  "title": "Artificial Intel. Tools II",
+  "desc": "This course covers advanced artificial intelligence tools, concepts, and technologies. Topics include the advanced utilization of artificial intelligence tools across multiple artificial intelligence subdomains. Upon completion, students should be able to utilize advanced Al solutions that improve safety, efficiency, error reduction, problem-solving, cost-savings, and the creation of new business opportunities."
+ },
+ "CSC 218": {
+  "title": "Swift Programming II",
+  "desc": "This course introduces advanced iOS application development using the Swift programming language. Emphasis is placed on navigation, data manipulation, web services, prototyping, debugging, and project planning. Upon completion, students should be able to develop advanced multifunctional iOS and Apple applications using the Swift programming language."
+ },
+ "CSC 221": {
+  "title": "Advanced Python Programming",
+  "desc": "This course introduces advanced computer programming using the Python programming language. Emphasis is placed on the advanced programming concepts including advanced algorithms and programming principles utilizing standard and third party library tools. Upon completion, students should be able to design, code, test, and debug advanced Python language programs."
+ },
+ "CSC 222": {
+  "title": "Eth Hack Mob Dev Using Python",
+  "desc": "This course introduces students to mobile ethical hacking techniques using the Python programming language. Emphasis is placed on mobile device attacks, scanning, maintaining access, covering tracks, malware delivery, password cracking, and keylogging with Python. Upon completion, students should be able evaluate and mitigate system vulnerabilities and threats on mobile devices using the Python computer programming language."
+ },
+ "CSC 226": {
+  "title": ".NET Programming",
+  "desc": "This course introduces the use of C# and XAML to design, develop, test and deploy.NET applications. Topics include building GUIs, data binding, Web API services, automated testing and deployment. Upon completion, students should be able to design, develop, test and deploy.NET applications."
+ },
+ "CSC 227": {
+  "title": "Cloud Application Development",
+  "desc": "This course introduces how to build, deploy, host, and manage applications using cloud technologies. Topics include building cloud applications using cloud toolsets, defining and managing service models, storage fundamentals, secure backup system and database programming. Upon completion, students should be able to develop and host cloud applications, as well as design and develop services that access local and remote data from various data sources."
+ },
+ "CSC 228": {
+  "title": "Chatbot Programming II",
+  "desc": "This course covers chatbot programming using one or more industry standard programming languages. Topics include conversational interfaces, agents, natural language processing, and artificial intelligence. Upon completion, students should be able to demonstrate advanced chatbot development skills."
+ },
+ "CSC 234": {
+  "title": "Advanced C++ Programming",
+  "desc": "This course is a continuation of CSC 134 using the C++ programming language with standard programming principles. Emphasis is placed on advanced arrays/tables, file management/processing techniques, data structures, sub-programs, interactive processing, sort/merge routines, and libraries. Upon completion, students should be able to design, code, test, debug and document programming solutions."
+ },
+ "CSC 239": {
+  "title": "Advanced Visual BASIC Prog",
+  "desc": "This course is a continuation of CSC 139 using the Visual BASIC programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+ },
+ "CSC 241": {
+  "title": "Advanced Visual C++ Prog",
+  "desc": "This course is a continuation of CSC 141 using the Visual C++ programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+ },
+ "CSC 245": {
+  "title": "Adv C/C++ Programming",
+  "desc": "This course covers additional operations using C dialects primarily relating to operating system interfacing. Topics include advanced file handling, Interprocess Communications, messages, semaphores, inter-language calls, signals, device drivers, sockets, and client/server techniques. Upon completion, students should be able to write and modify programs using advanced functions."
+ },
+ "CSC 249": {
+  "title": "Data Structure & Algorithms",
+  "desc": "This course introduces the data structures and algorithms frequently used in programming applications. Topics include lists, stacks, queues, dequeues, heaps, sorting, searching, mathematical operations, recursion, encryption, random numbers, algorithm testing, and standards. Upon completion, students should be able to design data structures and implement algorithms to solve various problems."
+ },
+ "CSC 251": {
+  "title": "Advanced JAVA Programming",
+  "desc": "This course is a continuation of CSC 151 using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+ },
+ "CSC 253": {
+  "title": "Advanced C# Programming",
+  "desc": "This course is a continuation of CSC 153 using the C# programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. Upon completion, students should be able to design, code, test, debug, and implement objects using the appropriate environment."
+ },
+ "CSC 256": {
+  "title": "Software Quality Assurance",
+  "desc": "This course covers the principles, concepts and processes of software testing. Topics include testing technologies, static techniques, test design techniques, and test management. Upon completion, students should be able to design and implement software testing plans and procedures throughout the software life cycle."
+ },
+ "CSC 258": {
+  "title": "JAVA Enterprise Programs",
+  "desc": "This course provides a continuation to CSC 151 using the Java Enterprise Edition (JEE) programming architecture. Topics include distributed network applications, database connectivity, Enterprise Java Beans, servlets, collection frameworks, JNDI, RMI, JSP, multithreading XML and multimedia development. Upon completion, students should be able to program a client/server enterprise application using the JEE framework."
+ },
+ "CSC 284": {
+  "title": "Emerging Comp Prog Tech",
+  "desc": "This course provides students with the latest technologies and strategies in the field of Computer Programming. Emphasis is placed on the evaluation of developing Computer Programming Technologies and presenting those findings to the class. Upon completion, students should be able to critically analyze emerging Computer Programming Technologies and establish informed opinions."
+ },
+ "CSC 289": {
+  "title": "Programming Capstone Project",
+  "desc": "This course provides an opportunity to complete a significant programming project from the design phase through implementation with minimal instructor support. Emphasis is placed on project definition, testing, presentation, and implementation. Upon completion, students should be able to complete a project from the definition phase through implementation."
+ },
+ "CTI 110": {
+  "title": "IT Foundations",
+  "desc": "This course provides an introduction to technology concepts and current trends in IT. Topics include foundational concepts across various IT domains such as, but not limited to, artificial intelligence, database fundamentals, programming principles, and web development. Upon completion, students should be able to demonstrate knowledge in core IT areas and apply skills critical for their academic and professional success."
+ },
+ "CTI 115": {
+  "title": "Computer Systems Foundation",
+  "desc": "This course introduces the basic hardware components of a personal computer workstation and their operations and interactions with software. Topics include installing and updating system software, application software programs, and device drivers. Upon completion, students should be able to set up a workstation, install software, and establish network connectivity."
+ },
+ "CTI 120": {
+  "title": "Network & Sec Foundations",
+  "desc": "This course introduces students to the Network concepts, including networking terminology and protocols, local and wide area networks, and network standards. Emphasis is placed on securing information systems and the various implementation policies. Upon completion, students should be able to perform basic tasks related to networking mathematics, terminology, media and protocols."
+ },
+ "CTI 130": {
+  "title": "Os and Device Foundation",
+  "desc": "This course covers the basic hardware and software of a personal computer, including installation, operations and interaction with popular microcomputer operating systems. Topics include components identification, memory-system, peripheral installation and configuration, preventive maintenance, hardware diagnostics/repair, installation and optimization of system software, commercial programs, system configuration, and device-drivers. Upon completion, students should be able to select appropriate computer equipment and software, upgrade/maintain existing equipment and software, and troubleshoot/repair non-functioning personal computers."
+ },
+ "CTI 131": {
+  "title": "Enterprise Hardware Foundation",
+  "desc": "This course introduces the hardware concepts required of the successful IT support professional. Emphasis is placed on PC and Enterprise Server Systems, Network Attached Storage (NAS), Redundant Solutions and Rack Mount Systems. Upon completion, students should have the necessary skills to support IT hardware and software for end-users and be able to work effectively in an IT support environment."
+ },
+ "CTI 135": {
+  "title": "Introduction to Green IT",
+  "desc": "This course provides the skills to implement environmentally sound techniques such as disposal, conservation of power, and reduction of an organization's carbon footprint. Topics include identifying Green organizations and standards, implementing virtualization on IT systems, and calculating the ROI involved in implementing green initiatives. Upon completion, students should be able to develop an environmental policy for a computer network infrastructure."
+ },
+ "CTI 140": {
+  "title": "Virtualization Concepts",
+  "desc": "This course introduces operating system virtualization. Emphasis is placed on virtualization terminology, virtual machine storage, virtual networking and access control. Upon completion, students should be able to perform tasks related to installation, configuration and management of virtual machines."
+ },
+ "CTI 141": {
+  "title": "Cloud & Storage Concepts",
+  "desc": "This course introduces cloud computing and storage concepts. Emphasis is placed on cloud terminology, virtualization, storage networking and access control. Upon completion, students should be able to perform tasks related to installation, configuration and management of cloud storage systems."
+ },
+ "CTI 150": {
+  "title": "Mobile Computing Devices",
+  "desc": "This course introduces mobile computing devices, including topics related to their selection, usage, deployment, and support in enterprise environments. Emphasis is placed on the evaluation, usage, deployment, security, and support of mobile devices, applications (apps), and peripherals. Upon completion, students should be able to select, deploy, and support mobile devices in an enterprise environment."
+ },
+ "CTI 160": {
+  "title": "Blockchain Fundamentals",
+  "desc": "This course introduces the foundational concepts of blockchain technology. Topics include the evolution of blockchain, decentralization, consensus mechanisms, cryptographic principles, and smart contracts. Upon completion, students should be able to demonstrate major blockchain implementations through practical experience."
+ },
+ "CTI 175": {
+  "title": "Intro to Wireless Technology",
+  "desc": "This course introduces the student to the technologies and standards of wireless telecommunications. Topics include the design, implementation, configuration, security, standards and protocols of wireless local area networks (WLAN). Upon completion, students should be able to design, implement, and administer wireless local area networks."
+ },
+ "CTI 240": {
+  "title": "Virtualization Admin I",
+  "desc": "This course covers datacenter virtualization concepts. Topics include data storage, virtual network configuration, virtual machine and virtual application deployment. Upon completion, students should be able to perform tasks related to virtual machine and hypervisor installation and configuration."
+ },
+ "CTI 241": {
+  "title": "Virtualization Admin II",
+  "desc": "This course covers administration of datacenter virtualization infrastructure. Topics include access control, fault tolerance, scalability, resource management, virtual machine migration and troubleshooting. Upon completion, students should be able to perform tasks related to virtualization security, data protection and resource monitoring."
+ },
+ "CTI 260": {
+  "title": "Data Center Troubleshooting",
+  "desc": "This course covers troubleshooting in a highly available, high performance, storage and computing system. Topics include provisioning, monitoring, diagnosing, and taking corrective actions in storage environments relating to Storage Area Network (SAN), Network Attached Storage (NAS), data protection and recovery. Upon completion, students should be able to demonstrate an understanding of SAN and NAS technologies, topologies, configuration, data protection, and fault triage and remediation."
+ },
+ "CTI 270": {
+  "title": "Data Center Design & Prob Res",
+  "desc": "This course provides students an opportunity to complete a significant data center hardware and software design and configuration project, including disaster recovery planning. Emphasis is placed on adhering to optimal practices that can provide a highly available, stable, manageable, secure and scalable environment and maintaining it using a variety of utilities and system tools. Upon completion, students should be able to design, deploy and administer the hardware and software components of a highly available data center."
+ },
+ "CTI 289": {
+  "title": "CTI Capstone Project",
+  "desc": "This course provides students an opportunity to complete a significant integrated technology project from the design phase through implementation with minimal instructor support. Emphasis is placed on technology policy, process planning, procedure definition, systems architecture, and security issues to create projects for the many areas in which computer technology is integrated. Upon completion, students should be able to create, implement, and support a comprehensive technology integration project from the planning and design phase through implementation."
+ },
+ "CTS 080": {
+  "title": "Computing Fundamentals",
+  "desc": "This course covers fundamental functions and operations of the computer. Topics include identification of components and basic computer operations including introduction to operating systems, the Internet, web browsers, and communication using World Wide Web. Upon completion, students should be able to operate computers, access files, print documents and perform basic applications operations."
+ },
+ "CTS 115": {
+  "title": "Info Sys Business Concepts",
+  "desc": "The course introduces the role of IT in managing business processes and the need for business process and IT alignment. Emphasis is placed on industry need for understanding business challenges and developing/managing information systems to contribute to the decision making process based on these challenges. Upon completion, students should be able to demonstrate knowledge of the 'hybrid business manager' and the potential offered by new technology and systems."
+ },
+ "CTS 118": {
+  "title": "IS Professional Comm",
+  "desc": "This course prepares the information systems professional to communicate with corporate personnel from management to end-users. Topics include information systems cost justification tools, awareness of personal hierarchy of needs, addressing these needs, and discussing technical issues with non-technical personnel. Upon completion, students should be able to communicate information systems issues to technical and non-technical personnel."
+ },
+ "CTS 120": {
+  "title": "Hardware/Software Support",
+  "desc": "This course covers the basic hardware of a personal computer, including installation, operations and interactions with software. Topics include component identification, memory-system, peripheral installation and configuration, preventive maintenance, hardware diagnostics/repair, installation and optimization of system software, commercial programs, system configuration, and device-drivers. Upon completion, students should be able to select appropriate computer equipment and software, upgrade/maintain existing equipment and software, and troubleshoot/repair non-functioning personal computers."
+ },
+ "CTS 125": {
+  "title": "Presentation Graphics",
+  "desc": "This course provides hands-on experience with a graphics presentation package. Topics include terminology, effective chart usage, design and layout, integrating hardware components, and enhancing presentations with text, graphics, audio and video. Upon completion, students should be able to design and demonstrate an effective presentation."
+ },
+ "CTS 130": {
+  "title": "Spreadsheet",
+  "desc": "This course introduces basic spreadsheet design and development. Topics include writing formulas, using functions, enhancing spreadsheets, creating charts, and printing. Upon completion, students should be able to design and print basic spreadsheets and charts."
+ },
+ "CTS 135": {
+  "title": "Integrated Software Intro",
+  "desc": "This course instructs students in the Windows or Linux based program suites for word processing, spreadsheet, database, personal information manager, and presentation software. This course prepares students for introductory level skills in database, spreadsheet, personal information manager, word processing, and presentation applications to utilize data sharing. Upon completion, students should be able to design and integrate data at an introductory level to produce documents using multiple technologies."
+ },
+ "CTS 137": {
+  "title": "Google Project Management I",
+  "desc": "This course introduces students to the concepts, tools, templates, and artifacts used to manage projects from initiation to completion using Google resources. Emphasis is placed on foundational project management methodology including initiating, planning and executing projects utilizing quality and risk management techniques, strategic thinking and project execution procedures. Upon completion, students should be able to manage and execute projects from initiation to completion using a variety of resources and leadership skills to support organizational goals and business processes."
+ },
+ "CTS 155": {
+  "title": "Tech Support Functions",
+  "desc": "This course introduces a variety of diagnostic and instructional tools that are used to evaluate the performance of technical support technologies. Emphasis is placed on technical support management techniques and support technologies. Upon completion, students should be able to determine the best technologies to support and solve actual technical support problems."
+ },
+ "CTS 210": {
+  "title": "Computer Ethics",
+  "desc": "This course introduces the student to current legal and ethical issues in the computer/engineering field. Topics include moral reasoning, ethical standards, intellectual property, social issues, encryption, software piracy, constitutional issues, and public policy in related matters. Upon completion, students should be able to demonstrate an understanding of the moral and social responsibilities and public policy issues facing an industry."
+ },
+ "CTS 217": {
+  "title": "Computer Training/Support",
+  "desc": "This course introduces computer training and support techniques. Topics include methods of adult learning, training design, delivery, and evaluation, creating documentation, and user support methods. Upon completion, students should be able to design and implement training and provide continued support for computer users."
+ },
+ "CTS 220": {
+  "title": "Adv Hard/Software Support",
+  "desc": "This course provides advanced knowledge and competencies in hardware and operating system technologies for computer technicians to support personal computers. Emphasis is placed on: configuring and upgrading; diagnosis and troubleshooting; as well as preventive maintenance of hardware and system software. Upon completion, students should be able to install, configure, diagnose, perform preventive maintenance, and maintain basic networking on personal computers."
+ },
+ "CTS 225": {
+  "title": "Spreadsheet Data Analysis",
+  "desc": "This course presents basic and advanced techniques for data analysis and management using electronic spreadsheets. Topics include an overview of spreadsheet analytics, terminology, model preparation, and analytical techniques. Upon completion, students should be able to develop reliable and effective quantitative data models and reports to support analysis and decision-making for common business systems."
+ },
+ "CTS 230": {
+  "title": "Advanced Spreadsheet",
+  "desc": "This course covers advanced spreadsheet design and development. Topics include advanced functions and statistics, charting, macros, databases, and linking. Upon completion, students should be able to demonstrate competence in designing complex spreadsheets."
+ },
+ "CTS 235": {
+  "title": "Integrated Software Adv",
+  "desc": "This course provides strategies to perform data transfer among software programs. Emphasis is placed on data interchange among word processors, spreadsheets, presentation graphics, databases and communications products. Upon completion, students should be able to integrate data to produce documents using multiple technologies."
+ },
+ "CTS 237": {
+  "title": "Google Project Management II",
+  "desc": "This course introduces students to the advanced concepts, tools, templates, and artifacts used to manage projects from initiation to completion using Google resources through Agile development. Emphasis is placed on advanced project management methodology including initiating, planning and executing projects as well as the exploration of Agile Project Management and the strategies it uses to drive business value. Upon completion, students should be able to manage and run traditional and agile projects and programs from initiation to completion using a variety of resources and leadership skills to support organizational goals and business processes."
+ },
+ "CTS 240": {
+  "title": "Project Management",
+  "desc": "This course introduces computerized project management software. Topics include identifying critical paths, cost management, and problem solving. Upon completion, students should be able to plan a complete project and project time and costs accurately."
+ },
+ "CTS 245": {
+  "title": "Integrated Apps Expert",
+  "desc": "This course provides an emphasis on mastery features in each of the application program areas. Emphasis is placed on end-user skills to achieve advanced support level proficiency by utilizing software for cross-platform integration, automation of processing, and application problem solving. Upon completion, students should be able to demonstrate expert level skills in the utilization of advanced features of the software in the workplace."
+ },
+ "CTS 250": {
+  "title": "User Support & Software Eval",
+  "desc": "This course provides an opportunity to evaluate software and hardware and make recommendations to meet end-user needs. Emphasis is placed on software and hardware evaluation, installation, training, and support. Upon completion, students should be able to present proposals and make hardware and software recommendations based on their evaluations."
+ },
+ "CTS 255": {
+  "title": "Adv Tech Support Functions",
+  "desc": "This course introduces a variety of diagnostic and instructional tools that are used to evaluate the performance of technical support technologies. Topics include technical support management techniques, evaluation, and methods of deployment for technical support technologies. Upon completion, students should be able to determine the best technologies to support and solve more complex technical support problems."
+ },
+ "CTS 272": {
+  "title": "Desktop Support: Apps",
+  "desc": "This course is designed to prepare students for a foundation in Desktop Support certification in office productivity applications. Emphasis is placed on developing proficiency in the end-user support skills, processes, and procedures necessary to correctly support office productivity products. Upon completion, students should be able to prepare for industry-level certification and utilize advanced support tools toward resolving office productivity end-user problems."
+ },
+ "CTS 285": {
+  "title": "Systems Analysis & Design",
+  "desc": "This course introduces established and evolving methodologies for the analysis, design, and development of an information system. Emphasis is placed on system characteristics, managing projects, prototyping, CASE/OOM tools, and systems development life cycle phases. Upon completion, students should be able to analyze a problem and design an appropriate solution using a combination of tools and techniques."
+ },
+ "CTS 286": {
+  "title": "Network Support",
+  "desc": "This course provides experience using online research tools and hands-on experience for advanced hardware support and troubleshooting. Emphasis is placed on troubleshooting network adapter cards and cabling, network storage devices, workstations, and network printers. Upon completion, students should be able to perform network support functions including analyzing, diagnosing, researching, and resolving network issues."
+ },
+ "CTS 287": {
+  "title": "Emerging Technologies",
+  "desc": "This course introduces emerging information technologies. Emphasis is placed on evolving technologies and trends in business and industry. Upon completion, students should be able to articulate an understanding of the current trends and issues in emerging technologies for information systems."
+ },
+ "CTS 288": {
+  "title": "Professional Practices in IT",
+  "desc": "This course provides students with the business skills needed for success in the information technology field. Topics include portfolio development, resume design, interviewing techniques and professional practices. Upon completion, students should be able to prepare themselves and their work for a career in the information technology field."
+ },
+ "CTS 289": {
+  "title": "System Support Project",
+  "desc": "This course provides an opportunity to complete a significant support project with minimal instructor assistance. Emphasis is placed on written and oral communication skills, project definition, documentation, installation, testing, presentation, and user training. Upon completion, students should be able to complete a project from the definition phase through implementation."
+ },
+ "DBA 110": {
+  "title": "Database Concepts",
+  "desc": "This course introduces database design and creation using a DBMS product. Emphasis is placed on data dictionaries, normalization, data integrity, data modeling, and creation of simple tables, queries, reports, and forms. Upon completion, students should be able to design and implement normalized database structures by creating simple database tables, queries, reports, and forms."
+ },
+ "DBA 112": {
+  "title": "Database Utilization",
+  "desc": "This course introduces basic database functions and uses. Emphasis is placed on database manipulation with queries, reports, forms, and some table creation. Upon completion, students should be able to enter and manipulate data from the end user mode."
+ },
+ "DBA 115": {
+  "title": "Database Applications",
+  "desc": "This course applies concepts learned in DBA 110 to a specific DBMS. Topics include manipulating multiple tables, advanced queries, screens and reports, linking, and command files. Upon completion, students should be able to create multiple table systems that demonstrate updates, screens, and reports representative of industry requirements."
+ },
+ "DBA 118": {
+  "title": "Google Data Analytics I",
+  "desc": "This course introduces the role of a Google data analyst and how to make data-driven decisions using effective questions, data transformation and analyzation processes. Emphasis is placed on setting up a data toolbox, spreadsheets, database and query basics, visualization basics, effective communication techniques, and data validation. Upon completion, students should be able to review assessments, use formulas and calculations to analyze datasets, create queries, use visualization tools and communicate effectively with stakeholders."
+ },
+ "DBA 120": {
+  "title": "Database Programming I",
+  "desc": "This course is designed to develop SQL programming proficiency. Emphasis is placed on data definition, data manipulation, and data control statements as well as on report generation. Upon completion, students should be able to write programs which create, update, and produce reports."
+ },
+ "DBA 125": {
+  "title": "Database Reporting",
+  "desc": "This course provides a survey of the tools used in designing, creating and publishing database reports. Topics include both relational and XML datasets. Upon completion, students should be able to demonstrate an understanding of the different tools and frameworks used for database reporting."
+ },
+ "DBA 130": {
+  "title": "Intro to noSQL Databases",
+  "desc": "This course introduces large scale data oriented web solutions on noSQL Databases. Topics include the advantages of developing and implementing noSQL Database systems. Upon completion, students should be able to design, develop, implement, and administer noSQL Database structures on business environments."
+ },
+ "DBA 210": {
+  "title": "Database Administration",
+  "desc": "This course covers database administration issues and distributed database concepts. Topics include database administrator (DBA) goals and functions, backup and recovery, standards and procedures, training, and database security and performance evaluations. Upon completion, students should be able to produce functional DBA documentation and administer a database."
+ },
+ "DBA 218": {
+  "title": "Google Data Analytics II",
+  "desc": "This course introduces the role of an advanced Google data analyst and how to make data-driven decisions using effective questions, data transformation, analyzation processes, visualization and programming. Emphasis is placed on setting up a design thinking, data-driven storytelling, dashboards, R programming, job portfolios and technical expertise. Upon completion, students should be able to create a data-driven storyboard, develop dashboards and presentations, create analytical reports using R, and showcase technical analytical skills."
+ },
+ "DBA 220": {
+  "title": "Oracle DB Programming II",
+  "desc": "This course is designed to enhance programming skills developed in DBA 120. Topics include application development with GUI front-ends and embedded programming. Upon completion, students should be able to develop an Oracle DBMS application which includes a GUI front-end and report generation."
+ },
+ "DBA 221": {
+  "title": "SQL Server DB Prog II",
+  "desc": "This course is designed to enhance programming skills developed in DBA 120. Topics include application development with GUI front-ends and embedded programming. Upon completion, students should be able to develop a SQL Server DBMS application which includes a GUI front-end and report generation."
+ },
+ "DBA 223": {
+  "title": "MySQL DB Programming II",
+  "desc": "This course is designed to enhance programming skills developed in DBA 120. Topics include application development with GUI front-ends and embedded programming. Upon completion, students should be able to develop a MySQL DBMS application which includes a GUI front-end and report generation."
+ },
+ "DBA 230": {
+  "title": "Databases in Corp Environs",
+  "desc": "This course covers database systems as they relate to the corporate environment. Topics include knowledge-based, decision-support, and expert systems; database choices; data warehousing; and corporate structure. Upon completion, students should be able to analyze and recommend database systems needed by a corporation."
+ },
+ "DBA 240": {
+  "title": "Database Analysis/Design",
+  "desc": "This course is an exploration of the established and evolving methodologies for the analysis, design, and development of a database system. Emphasis is placed on business data characteristics and usage, managing database projects, prototyping and modeling, and CASE tools. Upon completion, students should be able to analyze, develop, and validate a database implementation plan."
+ },
+ "DBA 260": {
+  "title": "Oracle DBMS Admin",
+  "desc": "This course examines advanced Oracle database administration issues and distributed database concepts. Topics include backup and recovery, transporting of data between databases, database networking concepts, and resolution of database networking issues. Upon completion, students should be able to manage backup recovery and implement networked database solutions."
+ },
+ "DBA 261": {
+  "title": "SQL Server DBMS Admin",
+  "desc": "This course examines advanced SQL Server database administration issues and distributed database concepts. Topics include backup and recovery, transporting of data between databases, database networking concepts, and resolution of database networking issues. Upon completion, students should be able to manage backup recovery and implement networked database solutions."
+ },
+ "DBA 270": {
+  "title": "Oracle Performance Tuning",
+  "desc": "This course covers Oracle performance tuning concepts and techniques. Topics include database tuning and Oracle performance tools. Upon completion, students should be able to configure and diagnose an Oracle database for optimal performance."
+ },
+ "DBA 271": {
+  "title": "SQL Server Perf Tuning",
+  "desc": "This course covers SQL Server performance tuning concepts and techniques. Topics include database tuning and SQL Server performance tools. Upon completion, students should be able to configure and diagnose an SQL Server database for optimal performance."
+ },
+ "DBA 273": {
+  "title": "MySQL Performance Tuning",
+  "desc": "This course covers MySQL performance tuning concepts and techniques. Topics include database tuning and MySQL performance tools. Upon completion, students should be able to configure and diagnose a MySQL database for optimal performance."
+ },
+ "DBA 285": {
+  "title": "Data Warehousing and Mining",
+  "desc": "This course introduces data warehousing and data mining techniques. Emphasis is placed on data warehouse design, data transference, data cleansing, retrieval algorithms, and mining techniques. Upon completion, students should be able to create, populate, and mine a data warehouse."
+ },
+ "DBA 289": {
+  "title": "Database Capstone Project",
+  "desc": "This course provides an opportunity to complete a significant database systems project with minimal instructor support. Emphasis is placed on written and verbal communication skills, documentation, presentation, and user training. Upon completion, students should be able to present an operational database system which they have created."
+ },
+ "NET 110": {
+  "title": "Networking Concepts",
+  "desc": "This course introduces students to the networking field. Topics include network terminology and protocols, local-area networks, wide-area networks, OSI model, cabling, router programming, Ethernet, IP addressing, and network standards. Upon completion, students should be able to perform tasks related to networking mathematics, terminology, and models, media, Ethernet, subnetting, and TCP/IP Protocols."
+ },
+ "NET 111": {
+  "title": "Internetwk Arch & Design",
+  "desc": "This course introduces the physical and logical design of local area networks, wide area networks, and networking devices used in the design implementation and integration. Topics include LAN segmentation, VLANS, IP addressing, router, switch, and server placement with an emphasis on design. Upon completion, students should be able to understand fundamental LAN and WAN design and the physical and logical aspects needed to achieve the design goal."
+ },
+ "NET 113": {
+  "title": "Home Automation Systems",
+  "desc": "This course covers the design, installation, testing, troubleshooting, and customer service of a fully automated home. Emphasis is placed on a structured wiring system that integrates the home phone, TV, home theater, audio, video, computer network, lighting, security systems, and automation systems into a pre-wired, remote controlled system. Upon completion, students should be able to design, install, and maintain home automation systems."
+ },
+ "NET 115": {
+  "title": "Telecom for IT Professionals",
+  "desc": "This course introduces telecommunications technologies and topics for Information Technology students. Topics include introduction to telecommunications, wide area networking technologies, voice telephony, wireless telephony and telecommunications network management. Upon completion, students should be able to design, implement and test key telecommunications technologies."
+ },
+ "NET 125": {
+  "title": "Introduction to Networks",
+  "desc": "This course offers a detailed exploration of the architecture, structure, functions, components, and operating models of the Internet and other computer networks. Topics include the essentials of IP addressing, Ethernet basics, various media types, and network operations. Upon completion, students should be able to build/troubleshoot simple Local Area Networks (LANs), develop effective IP addressing schemes, and configure routers and switches."
+ },
+ "NET 126": {
+  "title": "Switching and Routing",
+  "desc": "This course covers the architecture, components, and operations of routers and switches in small networks and introduces wireless local area networks (WLAN) and security concepts. Emphasis is placed on configuring and troubleshooting routers and switches for advanced functionality using security best practices and resolving common network issues utilizing both IPv4 and IPv6 protocols. Upon completion, students should be able to configure VLANs and Inter-VLAN routing applying security best practices, troubleshoot inter-VLAN routing on Layer 3 devices, configure redundancy on a switched network using STP and EtherChannel, configure WLANs using a WLC and L2 security best practices and configure IPv4 and IPv6 static routing on routers."
+ },
+ "NET 130": {
+  "title": "Convergence Concepts",
+  "desc": "This course provides an introduction to designing, implementing, and managing data, voice, and multimedia convergence applications. Topics include telephony, converged networks, convergence applications, converged network hardware and architecture, converged network management and converged network security. Upon completion, students should be able to demonstrate an understanding of the tasks related to converging data, voice and multimedia networks."
+ },
+ "NET 135": {
+  "title": "Data Center Networking",
+  "desc": "This course introduces the field of data center network administration. Emphasis is placed on foundational data center concepts such as designing, implementing and troubleshooting data center technologies. Upon completion, students will be able to enter the field of data center network administration."
+ },
+ "NET 175": {
+  "title": "Wireless Technology",
+  "desc": "This course introduces the student to wireless technology and interoperability with different communication protocols. Topics include Wireless Application Protocol (WAP), Wireless Mark-up language (WML), link manager, service discovery protocol, transport layer and frequency band. Upon completion, students should be able to discuss in written and oral form protocols and procedures required for different wireless applications."
+ },
+ "NET 225": {
+  "title": "Enterprise Networking",
+  "desc": "This course is designed to cover the architecture, components, operations, and security to scale for large, complex networks, including wide area network (WAN) technologies. Emphasis is placed on configuring, troubleshooting, and securing enterprise network devices and understanding how application programming interfaces (API) and configuration management tools enable network automation. Upon completion, students should be able to configure link state routing protocols, implement ACLs to filter traffic and secure administrative access, configure NAT services on the router to provide address scalability, explain techniques to provide address scalability and secure remote access for WAN, and explain how automation affects evolving networks."
+ },
+ "NET 226": {
+  "title": "Network Programmability",
+  "desc": "This course covers the methodologies and tools of modern software development, applied to IT and Network operations. Emphasis is placed on network programming in current network scripting languages, using GIT and common data formats, deploying applications as containers, using Continuous Integration/Continuous Deployment (CI/CD) pipelines and automating infrastructure using code. Upon completion, students should be able to use basic Python programming and Linux skills, implement a development environment, use software development and design best practices, create a secure API, use current technologies to deploy and secure applications and compare software testing and deployment methods in automation and simulation environments."
+ },
+ "NET 230": {
+  "title": "Wide Area Networking",
+  "desc": "This course is designed to introduce significant aspects of network interconnectivity. Topics include LAN-to-LAN, LAN-to-host, LAN-to-WAN connectivity, Internet connections, and voice-video-data transmission. Upon completion, students should be able to demonstrate an understanding of wide area networking."
+ },
+ "NET 235": {
+  "title": "Network Troubleshooting",
+  "desc": "This course covers principles and techniques of troubleshooting hardware and software problems in a local area network. Topics include tools and methods, physical layer problems, server problems, and client problems. Upon completion, the student should be able to perform baseline LAN monitoring and to resolve common local area network problems."
+ },
+ "NET 240": {
+  "title": "Network Design",
+  "desc": "This course covers the principles of the design of LANs and WANs. Topics include network architecture, transmission systems, traffic management, bandwidth requirements, Internet working devices, redundancy, and broad-band versus base-band systems. Upon completion, students should be able to design a network to meet specified business and technical requirements."
+ },
+ "NET 241": {
+  "title": "Introduction to VOIP",
+  "desc": "This course introduces students to the terms and definitions of analog phone systems and voice over internet protocol (VOIP) networks and how to configure, maintain, and troubleshoot said networks. Topics include configuring and maintaining an internet protocol (IP) telephony system, provisioning phones and users, configuring call features, and establishing voicemail over VOIP networks. Upon completion, students should be able to discuss the terms and definitions of VOIP as well as configure and maintain an IP telephony system, provision phones and users, configure call features and voicemail."
+ },
+ "NET 260": {
+  "title": "Internet Dev & Support",
+  "desc": "This course covers issues relating to the development and implementation of Internet related tools and services. Topics include Internet organization, site registration, e-mail servers, Web servers, Web page development, legal issues, firewalls, multimedia, TCP/IP, service providers, FTP, list servers, and gateways. Upon completion, students should be able to develop and support the Internet services needed within an organization."
+ },
+ "NET 270": {
+  "title": "Building Scalable Networks",
+  "desc": "This course covers principles and techniques of scalable networks. Topics include building multi-layer networks, controlling overhead traffic in growing routed networks, and router capabilities used to control traffic over LANs and WANs. Upon completion, students should be able to design; implement; and improve traffic flow, reliability, redundancy, and performance in enterprise networks."
+ },
+ "NET 272": {
+  "title": "Multi-Layer Networks",
+  "desc": "This course covers building campus networks using multi-layer switching technologies over a high-speed Ethernet. Topics include improving IP routing performance with multi-layer switching, implementing fault tolerance routing, and managing high bandwidth broadcast while controlling IP multi-cast access to networks. Upon completion, students should be able to install and configure multi-layer enterprise networks and determine the required router configurations to support new services and applications."
+ },
+ "NET 273": {
+  "title": "Internetworking Support",
+  "desc": "This course covers establishing baselines and using troubleshooting techniques in an internetworking environment using routers, switches, multi-protocol clients, hosts, and servers. Topics include troubleshooting processes, routing and routed protocols, campus switching, firewall placement, and WAN troubleshooting. Upon completion, students should be able to troubleshoot both LAN and WAN connection systems, addressing protocols, authentication and encryption methods."
+ },
+ "NET 289": {
+  "title": "Networking Capstone Project",
+  "desc": "This course allows students an opportunity to complete a significant networking project from the planning phase through the implementation phase. Emphasis is placed on project definition, documentation, installation, testing, presentation, and training. Upon completion, students should be able to complete a project from planning through implementation including multiple OS clients, servers, and networking equipment."
+ },
+ "NOS 110": {
+  "title": "Operating Systems Concepts",
+  "desc": "This course introduces students to a broad range of operating system concepts, including installation and maintenance. Emphasis is place on operating system concepts, management, maintenance, and resources required. Upon completion of this course, students will have an understanding of OS concepts, installation, management, maintenance, using a variety of operating systems."
+ },
+ "NOS 120": {
+  "title": "Linux Single User",
+  "desc": "This course provides students with GUI and command line skills for using a Linux machine. Topics include Linux file system and access permissions, desktop or shell environments, command line editors, display servers, expression pattern matching, I/O redirection, and networking. Upon completion, students should be able to demonstrate competency in customizing a Linux system."
+ },
+ "NOS 125": {
+  "title": "Linux/Unix Scripting",
+  "desc": "This course covers the concepts and features of shell scripting. Topics include process control, shell scripting, advanced search techniques and power user utilities. Upon completion, students should be able to successfully perform various shell scripting tasks."
+ },
+ "NOS 130": {
+  "title": "Windows Single User",
+  "desc": "This course introduces operating system concepts for single-user systems. Topics include hardware management, file and memory management, system configuration/optimization, and utilities. Upon completion, students should be able to perform operating systems functions at the support level in a single-user environment."
+ },
+ "NOS 140": {
+  "title": "Legacy Operating Systems",
+  "desc": "This course introduces legacy operating systems. Topics include hardware management, file management, memory management, system configuration, system optimization and utilities. Upon completion, students should be able to maintain, configure, and manage a legacy operating system."
+ },
+ "NOS 160": {
+  "title": "Mobile Operating Systems",
+  "desc": "This course examines operating system features and applications common to mobile operating systems. Topics include implementation, applications, file and memory management, system configuration, utilities and security features. Upon completion, students should be able to configure and manage mobile operating system implementations."
+ },
+ "NOS 220": {
+  "title": "Linux Admin I",
+  "desc": "This course covers advanced skills needed to successfully administer a Linux system. Topics include installation, file system creation/maintenance, storage, network configuration, user interface configuration, and security. Upon completion, students should be able to perform administrative tasks on a Linux system in a network environment."
+ },
+ "NOS 221": {
+  "title": "Linux Admin II",
+  "desc": "This course includes skill building in configuring common network services and security administration using Linux. Topics include server-side setup, configuration, basic administration of common networking services, and security administration using Linux. Upon completion, students should be able to setup a Linux server and configure common network services including security requirements."
+ },
+ "NOS 222": {
+  "title": "Linux Admin III",
+  "desc": "This course includes technical topics in preparing an enterprise Linux system for common uses. Topics include advanced study of hardware, installation, boot process, file system administration, software administration, user administration, system administration, kernel services, configuration, securing services, and troubleshooting. Upon completion, students should be able to administer an enterprise Linux system."
+ },
+ "NOS 225": {
+  "title": "Linux Special Topics",
+  "desc": "This course provides an opportunity for students to explore areas of current interest in the Linux system environment. Topics include specialized uses of Linux such as advanced implementation or exploration of emerging technologies. Upon completion, students should be able to demonstrate competency and understanding of the topics covered."
+ },
+ "NOS 230": {
+  "title": "Windows Administration I",
+  "desc": "This course covers the installation and configuration of a Windows Server operating system. Emphasis is placed on the basic configuration of core network services, Active Directory and group policies. Upon completion, students should be able to install and configure a Windows Server operating system."
+ },
+ "NOS 231": {
+  "title": "Windows Administration II",
+  "desc": "This course covers the management of a Windows Server operating system. Emphasis is placed on the deployment of print services, network services, Active Directory, group policies and access controls. Upon completion, students should be able to deploy and manage services on a Windows Server operating system."
+ },
+ "NOS 232": {
+  "title": "Windows Administration III",
+  "desc": "This course covers management and configuration of a highly available Windows Server operating system. Emphasis is placed on the implementation of business continuity and disaster recovery procedures for network services and access controls. Upon completion, students should be able to manage and configure a highly available Windows Server operating system."
+ },
+ "NOS 244": {
+  "title": "Operating System - AS/400",
+  "desc": "This course includes operating systems concepts for AS/400 systems. Topics include hardware management, file and memory management, system configuration/optimization, utilities, Job Control Language, and support functions. Upon completion, students should be able to perform operating system functions in an AS/400 environment."
+ },
+ "NOS 250": {
+  "title": "Enterprise Database Servers",
+  "desc": "This course is designed to teach the installation and configuration of enterprise database server systems. Emphasis is placed on the installation, configuration and management of enterprise database environments. Upon completion, students should be able to install, configure and maintain enterprise level database server systems."
+ },
+ "SEC 110": {
+  "title": "Security Concepts",
+  "desc": "This course introduces the concepts and issues related to securing information systems and the development of policies to implement information security controls. Topics include the historical view of networking and security, security issues, trends, security resources, and the role of policy, people, and processes in information security. Upon completion, students should be able to identify information security risks, create an information security policy, and identify processes to implement and enforce policy."
+ },
+ "SEC 115": {
+  "title": "Security Implementation",
+  "desc": "This course introduces students to the different aspects of security implementation. Topics include the selection and implementation of different security solutions to monitor and secure various system environments. Upon completion, students should be able to recommend, apply, and integrate appropriate security solutions."
+ },
+ "SEC 150": {
+  "title": "Secure Communications",
+  "desc": "This course provides an overview of current technologies used to provide secure transport of information across networks. Topics include data integrity through encryption, Virtual Private Networks, SSL, SSH, and IPSec. Upon completion, students should be able to implement secure data transmission technologies."
+ },
+ "SEC 151": {
+  "title": "Intro to Protocol Analysis",
+  "desc": "This course introduces protocol analysis. Topics include protocol analysis tools, TCP/IP concepts, Internet protocols, network traffic analysis, monitoring network traffic, network security protocol analysis, and understanding data flow through protocol analysis. Upon completion, students should be able to perform simple protocol analysis to determine baseline network performance and identify anomalies."
+ },
+ "SEC 160": {
+  "title": "Security Administration I",
+  "desc": "This course provides an overview of security administration with an emphasis on designing secure network architectures. Topics include networking technologies, TCP/IP fundamentals, network protocols, traffic analysis, monitoring strategies, and established security best practices. Upon completion, students should be able to use advanced network analysis tools to monitor network traffic and develop security measures to safeguard against various threats."
+ },
+ "SEC 175": {
+  "title": "Perimeter Defense",
+  "desc": "This course introduces the principles of securing networks using routers and firewalls. Topics include networking protocols, threat mitigation, firewall configuration, authentication, authorization, intrusion detection, encryption, IPSec, VPNs, and remote access technologies. Upon completion, students should be able to secure internal networks using router and firewall technologies."
+ },
+ "SEC 180": {
+  "title": "Info Assurance Principles",
+  "desc": "This course introduces students to the concepts of layered and comprehensive Information Assurance best practices. Topics include user defensive measures, edge defensive measures, along with confidentiality, integrity and availability of enterprise data with the business continuity concepts of: redundancy, disaster recovery, incident handling, compliance and auditing. Upon completion, students should be able to plan effective information assurance strategies."
+ },
+ "SEC 185": {
+  "title": "Ethical Hacking",
+  "desc": "This course introduces students to the different aspects of ethical hacking for assessing system vulnerabilities. Topics include the ethical aspects, methodologies, and industry compliance regulations. Upon completion, students should be able to utilize current ethical hacking tools, techniques, and products to secure computer environments."
+ },
+ "SEC 210": {
+  "title": "Intrusion Detection",
+  "desc": "This course introduces the student to intrusion detection methods in use today. Topics include the types of intrusion detection products, traffic analysis, and planning and placement of intrusion detection solutions. Upon completion, students should be able to plan and implement intrusion detection solution for networks and host-based systems."
+ },
+ "SEC 215": {
+  "title": "Security Incident Response",
+  "desc": "This course covers the knowledge and skills needed to effectively respond to security incidents within an organization. Topics include incident response frameworks, threat identification, forensic analysis, and the development of incident response plans. Upon completion, students should be able to demonstrate the ability to detect, assess, and mitigate security threats in computer system environments."
+ },
+ "SEC 251": {
+  "title": "Advanced Protocol Analysis",
+  "desc": "This course is designed to provide advanced understanding of protocol analysis. Topics include advanced network protocol security analysis, data parsing, monitoring scanning logs, and network intrusion identification. Upon completion, students should be able to apply best practices in protocol analysis and apply the results to IT security frameworks."
+ },
+ "SEC 255": {
+  "title": "Ethical Hacking Tools",
+  "desc": "This course introduces students to a variety of security tools used for assessing system vulnerabilities. Topics include the current ethical hacking tools, techniques, and products available. Upon completion, students should be able to utilize current hacking tools, techniques, and products on computer environments."
+ },
+ "SEC 258": {
+  "title": "Security Compliance",
+  "desc": "This course introduces information security compliance and standards along with how they apply to corporate IT environments. Topics include ISO standards, government NIST frameworks, federal and state compliance requirements, security policies, incident response and business continuity planning. Upon completion, students should be able to apply compliance and availability requirements to corporate data enterprise scenarios."
+ },
+ "SEC 260": {
+  "title": "Security Admin II",
+  "desc": "This course provides the skills necessary to design and implement information security controls. Topics include advanced networking and TCP/IP concepts, network vulnerability analysis, and monitoring. Upon completion, students should be able to distinguish between normal and anomalous network traffic, identify common network attack patterns, and implement security solutions."
+ },
+ "SEC 265": {
+  "title": "Endpoint Detection & Response",
+  "desc": "This course introduces students to endpoint detection and response methodologies in a computer system environment. Topics include intrusion detection systems, applications, and artificial intelligence. Upon completion, students should be able to demonstrate practical knowledge of implementing endpoint detection and response techniques in computer system environments."
+ },
+ "SEC 285": {
+  "title": "Systems Security Project",
+  "desc": "This course provides students with the opportunity to apply their knowledge and skills from the systems security program. Topics include crafting and implementing effective security policies, planning processes, defining procedures, ensuring business continuity, achieving compliance, conducting audits, performing security tests, and designing secure system architectures. Upon completion, students should be able to design and implement comprehensive security solutions."
+ },
+ "SGD 111": {
+  "title": "Introduction to SGD",
+  "desc": "This course provides students with an introduction to simulation and game development. Topics include setting, storytelling, narrative, character design, interface design, game play, internal economy, core mechanics, game genres, AI, the psychology of game design and professionalism. Upon completion, students should be able to demonstrate knowledge of the major aspects of simulation and game design and development."
+ },
+ "SGD 112": {
+  "title": "SGD Design I",
+  "desc": "This course introduces the fundamentals of simulation and game design. Topics include industry standards and design elements for simulation and games. Upon completion, students should be able to design simple simulations and/or games."
+ },
+ "SGD 113": {
+  "title": "SGD Programming I",
+  "desc": "This course introduces the fundamentals of programming languages and tools employed in simulation and game development. Emphasis is placed on programming concepts used to create simulations and games. Upon completion, students should be able to program simple games and/or simulations."
+ },
+ "SGD 114": {
+  "title": "SGD 3D Modeling I",
+  "desc": "This course introduces the tools required to create three-dimensional (3D) models. Emphasis is placed on exploring tools used to create 3D models. Upon completion, students should be able to create and animate 3D models using 3D modeling tools."
+ },
+ "SGD 115": {
+  "title": "Physically-Based Modeling",
+  "desc": "This course introduces fundamental physical concepts as applied to the simulation and game design fields. Topics include hands-on programming of vectors, matrices, graphical analyses, forces, laws of motion, work, energy, momentum, properties of matter, and problem-solving methods. Upon completion, students should be able to demonstrate an understanding of the principles studied as applied to the simulation and game design fields."
+ },
+ "SGD 116": {
+  "title": "SGD Graphic Design Tools",
+  "desc": "This course introduces students to computer-based graphic design tools and their use within the context of simulation and game design. Topics include texture creation, map creation, and introduction to advanced level graphic design techniques. Upon completion, students should be able to competently use and explain industry-standard graphic design software."
+ },
+ "SGD 117": {
+  "title": "Art for Games",
+  "desc": "This course introduces students to the basic principles of art and how they apply to simulations and games. Emphasis is placed on learning to develop industry quality concept art for characters and other assets, as well as techniques needed to create such art. Upon completion, students should be able to create their own industry standard concept art for use in SGD projects."
+ },
+ "SGD 122": {
+  "title": "SG Database Programming",
+  "desc": "This course covers the creation and application of databases for simulation and game development. Emphasis is placed on various database and software development kits. Upon completion, students should be able to apply their knowledge of databases to the creation of simulations and games."
+ },
+ "SGD 123": {
+  "title": "Windows/Console Prog",
+  "desc": "This course introduces the concepts of Windows and Console Programming. Emphasis is placed on learning MS Windows, the operating systems of various consoles and programming techniques. Upon completion, students should be able to demonstrate an understanding of Windows and of various consoles' operating systems."
+ },
+ "SGD 124": {
+  "title": "MMO Programming",
+  "desc": "This course introduces the concepts of Massive On-line Programming for simulations and games. Emphasis is on learning Massive Multiplayer On-line simulation and game programming techniques. Upon completion, students should be able to create Massive Multiplayer On-line simulation or game."
+ },
+ "SGD 125": {
+  "title": "SG Artificial Intellig",
+  "desc": "This course introduces the artificial intelligence concepts related to simulation and game development. Emphasis is placed on expert systems. Upon completion, students should be able to describe the basic concepts and procedures related to the development of artificial intelligence systems used in simulation and games."
+ },
+ "SGD 126": {
+  "title": "SG Engine Design",
+  "desc": "This course introduces the techniques needed to design and create a simulation/game engine. Emphasis is placed on learning core techniques used to design and create simulation and/or game engines. Upon completion, students should be able to design and create a simulation or game engine."
+ },
+ "SGD 134": {
+  "title": "SGD Quality Assurance",
+  "desc": "This course provides an introduction to software quality assurance as it relates to simulation and game development. Emphasis is placed on designing testing tools, bug databases, and on learning methodologies required for systematic, detail-oriented testing procedures for the simulation and game industry. Upon completion, students should be able to demonstrate the proper skills to obtain a job as a quality assurance tester in the simulation/game industry."
+ },
+ "SGD 135": {
+  "title": "Serious Games",
+  "desc": "This course provides students with an overview of serious games and their applications in immersive learning and education. Emphasis is placed on developing games for education, corporate training, and medical/military simulations. Upon completion, students should be able to design their own serious games."
+ },
+ "SGD 158": {
+  "title": "SGD Business Management",
+  "desc": "This course introduces the business side of the interactive game industry. Emphasis will be placed on licenses, serious games, psychological profiling, publisher/developer relations, and contract negotiation skills. Upon completion, students should be able to understand how a game evolves from concept to the customer."
+ },
+ "SGD 159": {
+  "title": "SGD Production Management",
+  "desc": "This course introduces the techniques and methods used in interactive game production and how to manage a project. Emphasis is placed on scheduling, production plans, marketing and budgeting. Upon completion, students should be able to manage a team, track production, and understand the process of project management."
+ },
+ "SGD 161": {
+  "title": "SGD 2D Animation",
+  "desc": "This course introduces the fundamental principles of animation used in simulation and game development. Emphasis is placed on historical survey of animation, aspects of the animation process and animation techniques. Upon completion, students should be able to produce character sketches, morph simple objects, create walk and run cycles and develop professional storyboards."
+ },
+ "SGD 162": {
+  "title": "SGD 3D Animation I",
+  "desc": "This course introduces the fundamental principles of 3D animation used in simulation and game development. Emphasis is placed on a historical survey of 3D animation, aspects of the 3D animation techniques. Upon completion, students should be able to produce 3D character sketches, morph simple objects, create walk and run cycles and develop professional storyboards."
+ },
+ "SGD 163": {
+  "title": "SGD Documentation",
+  "desc": "This course introduces the techniques and methods used to create simulation and game production and design documents. Emphasis is placed on the design document to include scheduling, production plans, marketing, and budgeting. Upon completion, students should be able to create, design, and produce documents for any simulation or game."
+ },
+ "SGD 164": {
+  "title": "SGD Audio/Video",
+  "desc": "This course introduces various aspects of audio and video and their application in simulations and games. Topics include techniques for producing and editing audio and video for multiple digital mediums. Upon completion, students should be able to produce and edit audio and video for simulations and games."
+ },
+ "SGD 165": {
+  "title": "SGD Character Development",
+  "desc": "This course introduces the concepts needed to create fictional personalities for use in digital videos, animations, simulations, and games. Topics include aspects of character, developing backgrounds, mannerisms, and voice. Upon completion, students should be able to develop characters and backgrounds for simulations and games."
+ },
+ "SGD 166": {
+  "title": "SGD Physiology/Kinesis",
+  "desc": "This course introduces the principles of simulation and game development. Topics include analysis of the human form and other living organisms. Upon completion, students should be able to demonstrate an understanding of the physiology and kinesiology concepts related to simulation and game development."
+ },
+ "SGD 167": {
+  "title": "SGD Ethics",
+  "desc": "This course introduces principles of philosophy and ethics as they relate to simulation and game development. Topics include moral philosophy and ethics. Upon completion, students should be able to discuss philosophical and ethical issues related to simulation and game development."
+ },
+ "SGD 168": {
+  "title": "SGD Mobile Programming I",
+  "desc": "This course introduces the mobile simulation and game programming process. Topics include mobile simulation/game programming, performance tuning, animation, sound effects, music, and mobile networks. Upon completion, students should be able to apply simulation/game programming concepts to the creation of mobile simulations and games."
+ },
+ "SGD 170": {
+  "title": "SGD Handheld Programming",
+  "desc": "This course introduces the concepts of hand-held simulation and game development. Emphasis is placed on hand-held game API, including stylus input, system buttons, infrared commmunications audio/visual creation and the physics of hand-held game API. Upon completion, students should be able to create a simple simulation or game for a hand-held device."
+ },
+ "SGD 172": {
+  "title": "SGD Virtual Environments",
+  "desc": "This course covers the use of virtual reality tools and techniques in simulation and game development. Emphasis is placed on acquiring the skills necessary to create scalable virtual characters and environments for use in simulations and games. Upon completion, students should be able to create a simple game or simulation in a virtual environment."
+ },
+ "SGD 174": {
+  "title": "SGD Level Design I",
+  "desc": "This course introduces the tools used to create levels for real-time simulation and games. Topics include level design, architecture theory, modeling for 3D engines, and texturing methods. Upon completion, students should be able to design simple levels using industry-standard tools."
+ },
+ "SGD 180": {
+  "title": "SGD HTML Programming I",
+  "desc": "This course provides an introduction to using HTML based technologies as it relates to simulation and game development presented in a browser context. Emphasis is placed on creating webpages that use HTML, CSS and Javascript to create game content that is usable in a variety of platforms. Upon completion, students should be able to design and create an HTML based games or simulations."
+ },
+ "SGD 210": {
+  "title": "3D Data Capture",
+  "desc": "This course introduces students to the tools used to capture data in a 3D environment. Emphasis is placed on capturing data from motion capture and/or 3D scanning devices for use in 3D models and animations. Upon completion, students should be able to capture data from a 3D environment and import for use in 3D models, simulations, and animations."
+ },
+ "SGD 212": {
+  "title": "SGD Design II",
+  "desc": "This course covers the advanced principles of simulation and game design. Topics include advanced design concepts in simulation and game development. Upon completion, students should be able to design an advanced simulation or game."
+ },
+ "SGD 213": {
+  "title": "SGD Programming II",
+  "desc": "This course covers advanced programming concepts used to create simulations and games. Emphasis is placed on acquiring advanced programming skills for use in creating simulations and games. Upon completion, students should be able to program an advanced simulation or game."
+ },
+ "SGD 214": {
+  "title": "SGD 3D Modeling II",
+  "desc": "This course introduces the tools used to create and animate advanced 3-dimensional models. Emphasis is placed on identifying and utilizing the tools required to create and animate advanced 3D models. Upon completion, students should be able to create and animate advanced 3D models using 3D modeling tools."
+ },
+ "SGD 235": {
+  "title": "SGD Game Console Programming",
+  "desc": "This course introduces the game console programming process. Emphasis is placed on developing simulations and games to be deployed on game consoles using industry-standard game engine platforms and associated languages. Upon completion, students should be able to apply simulation and game programming concepts to the creation of game console simulations and games."
+ },
+ "SGD 237": {
+  "title": "Rigging 3D Models",
+  "desc": "This course covers the fundamentals of rigging 3D models for animation. Emphasis is placed on learning how to properly weight a model, rig it with a skeleton, and create fluid movement. Upon completion, students should be able to demonstrate the ability to properly rig 3D models."
+ },
+ "SGD 239": {
+  "title": "SGD Tech Art",
+  "desc": "This course is designed to connect the disciplines of art and programming in Simulation and Game Development. Emphasis is placed on the creation and integration of game assets into the simulation or game development pipeline. Upon completion, students should be able to create art and customize art tools using scripting languages for development of simulations and video games."
+ },
+ "SGD 242": {
+  "title": "SGD Photogrammetry",
+  "desc": "This course introduces the use of photogrammetry for simulations and game development. Emphasis is placed on the process of pulling visual data from an array of photographs to generate fully textured, high-poly models. Upon completion, students should be able to translate photogrammetry creations into industry-standard game and simulation models for use in real-time engines and surfaces in physics-based materials."
+ },
+ "SGD 244": {
+  "title": "SGD 3D Modeling III",
+  "desc": "This course is designed to further a student's knowledge in creating visually compelling 3D models through the use of industry-standard software. Emphasis is placed on learning how to develop accurate textures and normal maps. Upon completion, students should be able to develop industry caliber 3D models."
+ },
+ "SGD 262": {
+  "title": "SGD 3D Animation II",
+  "desc": "This course is designed to further a student's knowledge of 3D animation used in simulation and game development. Emphasis is placed on advanced character, weapons, vehicles, prop and effects animations for video game design. Upon completion, students should be able to develop industry caliber animations for simulation or video game integration."
+ },
+ "SGD 268": {
+  "title": "SGD Mobile Programming II",
+  "desc": "This course introduces advanced mobile simulation and game programming processes. Topics include advanced mobile simulation/game platforms, performance tuning, animation, sound effects, music, and mobile networks. Upon completion, students should be able to apply advanced simulation/game programming concepts to the creation of mobile simulations and games."
+ },
+ "SGD 274": {
+  "title": "SGD Level Design II",
+  "desc": "This course introduces the advanced tools used to create levels for real-time simulations and games. Topics include advanced-level guide and architecture theory, concepts related to \"critical path\" and \"flow,\" game balancing, playtesting, and storytelling. Upon completion, students should be able to design complex levels using industry-standard tools."
+ },
+ "SGD 280": {
+  "title": "SGD HTML Programming II",
+  "desc": "This course is designed to expand knowledge of HTML based technologies as it relates to simulation and game development. Emphasis is placed on creating advanced webpages that use HTML, CSS and Javascript to create game content that is usable in a variety of platforms. Upon completion, students should be able to design and create an advanced industry standard quality HTML based games or simulations."
+ },
+ "SGD 285": {
+  "title": "SGD Software Engineering",
+  "desc": "This course introduces object-oriented software engineering concepts related to simulation and game development. Topics include systematic approaches to the development, operation and maintenance of simulations and games. Upon completion, students should be able to apply software engineering techniques to the development of simulations and games."
+ },
+ "SGD 288": {
+  "title": "SGD Portfolio Design",
+  "desc": "This course covers the organization and presentation of a simulation and game design portfolio and appropriate related materials. Emphasis is placed on development and evaluation of the portfolio, design and production of a resume and self-promotional materials, and interview techniques. Upon completion, students should be able to prepare and professionally present an effective portfolio and related self-promotional materials."
+ },
+ "SGD 289": {
+  "title": "SGD Capstone Project",
+  "desc": "This course provides students with the opportunity to create a functional simulation or game with minimal instructor support. Emphasis is placed upon verbal and written communication, skill documentation, professional presentation and user training. Upon completion, students should be able to create and professionally present a fully functional simulation or game."
+ },
+ "WEB 110": {
+  "title": "Web Development Fundamentals",
+  "desc": "This course introduces World Wide Web Consortium (W3C) standard markup language. Topics include creating web pages, responsive design, file transfer, deployment, accessibility, and other related W3C topics. Upon completion, students should be able to deploy a hand-coded website created using the HyperText Markup Language (HTML) and Cascading Style Sheet (CSS) standards."
+ },
+ "WEB 111": {
+  "title": "Intro to Web Graphics",
+  "desc": "This course introduces the creation of web graphics, and addressing problems peculiar to WWW display using appropriate software. Topics include web graphics file types, optimization, RGB color, web typography, elementary special effects, transparency, animation, slicing, basic photo manipulation, and other related topics. Upon completion, students should be able to create graphics, such as animated banners, buttons, backgrounds, logos, and manipulate photographic images for Web delivery."
+ },
+ "WEB 115": {
+  "title": "Web Markup and Scripting",
+  "desc": "This course introduces Worldwide Web Consortium (W3C) Internet programming using JavaScript. Topics include basic syntax, object-oriented programming, functions, variables, events, arrays, validation, accessibility, and web standards. Upon completion, students should be able to write, debug, maintain well-formed and well documented interactive web content using JavaScript code."
+ },
+ "WEB 120": {
+  "title": "Intro to Internet Multimedia",
+  "desc": "This course introduces the creation of rich media for the Internet. Topics include the design, production and delivery of interactive content, rich media, digital video, and digital audio. Upon completion, students should be able to create multimedia projects incorporating graphics, text, video, and audio using industry standard authoring software or web standards."
+ },
+ "WEB 125": {
+  "title": "Responsive Web Frameworks",
+  "desc": "This course introduces students to responsive web frameworks. Topics include planning effective responsive websites, industry standard Markup Language, Cascading Style Sheets (CSS), testing, and web publishing. Upon completion, students should be able to plan, develop, test, and publish responsive web content."
+ },
+ "WEB 140": {
+  "title": "Web Development Tools",
+  "desc": "This course provides an introduction to web development tools.Topics include creating websites using web development tools and web standards. Upon completion, students should be able to create small web sites and upload files to a web server."
+ },
+ "WEB 141": {
+  "title": "Mobile Interface Design",
+  "desc": "This course covers current design standards and emerging approaches related to the design and development of user interfaces for mobile devices. Emphasis is placed on research and evaluation of standard and emerging practices for effective interface and user experience design. Upon completion, students should be able to design effective and usable interfaces for mobile devices."
+ },
+ "WEB 151": {
+  "title": "Mobile Application Dev I",
+  "desc": "This course introduces students to programming technologies, design, and development related to mobile applications. Topics include accessing device capabilities, compliance with industry standards, and programming for mobile applications. Upon completion, students should be able to develop basic applications for mobile devices."
+ },
+ "WEB 179": {
+  "title": "JAVA Web Programming",
+  "desc": "This course introduces the development of dynamic, database-driven web applications using the JAVA programming languages. Topics include Object Oriented Programming JAVA Server Pages, servlets, database interactions, and form handling. Upon completion, students should be able to create and modify JAVA-based internet applications."
+ },
+ "WEB 180": {
+  "title": "Active Server Pages",
+  "desc": "This course introduces active server programming. Topics include HTML forms processing and other issues related to developing active web applications. Upon completion, students should be able to create and maintain a dynamic website."
+ },
+ "WEB 182": {
+  "title": "PHP Programming",
+  "desc": "This course introduces students to the server-side, HTML-embedded scripting language PHP. Emphasis is placed on programming techniques required to create dynamic web pages using PHP scripting language features. Upon completion, students should be able to design, code, test, debug, and create a dynamic web site using the PHP scripting language."
+ },
+ "WEB 185": {
+  "title": "ColdFusion Programming",
+  "desc": "This course introduces ColdFusion Programming. Topics include installing a ColdFusion development environment, using CFQUERY tags to send and receive database information, creating and displaying a form, and other related topics. Upon completion, students should be able to design, code, test, and debug using a ColdFusion environment."
+ },
+ "WEB 186": {
+  "title": "XML Technology",
+  "desc": "This course is designed to introduce students to XML and related internet technologies. Topics include extendible style language (XSL) document object model (DOM), extendible stylesheet language transformation (XSLT), and simple object access protocol (SOAP). Upon completion, students should be able to create a complex XML document."
+ },
+ "WEB 187": {
+  "title": "Prog for Mobile Devices",
+  "desc": "This course introduces content development for mobile electronic devices with a focus on business-related, social media, and entertainment applications. Emphasis is placed on developing web content and creating applications for mobile devices, including internet/business practices and techniques for delivery on mobile platforms. Upon completion, students should be able to develop web content and business or entertainment applications for use on mobile electronic devices."
+ },
+ "WEB 210": {
+  "title": "Web Design",
+  "desc": "This course introduces intermediate to advanced web design techniques. Topics include customer expectations, advanced markup language, multimedia technologies, usability and accessibility practices, and techniques for the evaluation of web design. Upon completion, students should be able to employ advanced design techniques to create high impact and highly functional web sites."
+ },
+ "WEB 211": {
+  "title": "Advanced Web Graphics",
+  "desc": "This course covers the advanced concepts related to the creation and manipulation of graphic images for web delivery. Topics include graphics acquisition, use of masks and channels, advanced special effects, advanced photo manipulation, and other related topics. Upon completion, students should be able to create, manipulate, and optimize web graphics with advanced techniques and maintain an online coursework portfolio."
+ },
+ "WEB 213": {
+  "title": "Internet Mkt & Analytics",
+  "desc": "This course introduces students to Search Engine Optimization (SEO), Search Engine Marketing (SEM)and web analytics. Topics include Search Engine Optimization (SEO), Pay Per Click advertising (PPC), Search Engine Marketing (SEM), web analytics, eye-tracking software and email marketing. Upon completion, students should be able to set up, monitor and maintain SEO optimized websites; and develop strategies for online marketing and advertising plans."
+ },
+ "WEB 214": {
+  "title": "Social Media",
+  "desc": "This course introduces students to social media for organizations. Topics include social media, marketing strategy, brand presence, blogging, social media analytics and technical writing. Upon completion, students should be able to utilize popular social media platforms as part of a marketing strategy, and work with social media analytics tools."
+ },
+ "WEB 215": {
+  "title": "Adv Markup and Scripting",
+  "desc": "This course covers the advanced programming skills required to design Internet applications and interactive web content.Emphasis is placed on the programming techniques required to develop Internet applications, interactive web content, frameworks, and using libraries. Upon completion, students should be able to design, code, debug, and document Internet-based programming solutions to various real-world problems."
+ },
+ "WEB 220": {
+  "title": "Advanced Multimedia",
+  "desc": "This is the second of two courses covering internet multimedia. Topics include use of advanced internet multimedia applications. Upon completion, students should be able to create interactive Internet multimedia presentations."
+ },
+ "WEB 225": {
+  "title": "Content Management Sys",
+  "desc": "This course introduces students to Content Management Systems (CMS) designed for the publication of Web content to Web sites. Topics include individual user accounts, administration menus, RSS-feeds, customizable layout, flexible account privileges, logging, blogging systems, creating online forums, and modules. Upon completion, students should be able to register and maintain individual user accounts and create a business website and/or an interactive community website."
+ },
+ "WEB 230": {
+  "title": "Implementing Web Serv",
+  "desc": "This course covers website and web server architecture. Topics include installation, configuration, administration, and security of web servers, services and sites. Upon completion, students should be able to effectively manage the web services deployment lifecycle according to industry standards."
+ },
+ "WEB 240": {
+  "title": "Internet Security",
+  "desc": "This course covers security issues related to Internet services. Topics include the operating system and the Internet service security mechanisms. Upon completion, students should be able to implement security procedures for operating system level and server level alerts."
+ },
+ "WEB 250": {
+  "title": "Database Driven Websites",
+  "desc": "This course introduces dynamic (database-driven) website development. Topics include the use of basic database CRUD statements (create, read, update and delete) incorporated into web applications, as well as in software architecture principles. Upon completion, students should be able to design and develop database driven web applications according to industry standards."
+ },
+ "WEB 251": {
+  "title": "Mobile Application Dev II",
+  "desc": "This course covers advanced applications and custom programming to develop applications for mobile devices. Topics include device capabilities, OS specific Software Development Kits (SDK), scripting for functionality and designing interactivity. Upon completion, students should be able to demonstrate effective programming techniques to develop advanced mobile applications."
+ },
+ "WEB 260": {
+  "title": "E-Commerce Programming",
+  "desc": "This course introduces the concepts and tools to implement electronic commerce via the Internet. Topics include application and server software selection, securing transactions, use and verification of credit cards, publishing of catalogs, documentation, and site administration. Upon completion, students should be able to setup a working e-commerce Internet web site."
+ },
+ "WEB 285": {
+  "title": "Emerging Web Technologies",
+  "desc": "This course will explore, discuss, and research emerging technologies in the web arena. Emphasis is placed on exposure to up-and-coming technologies relating to the web, providing hands-on experience, and discussion of practical implications of these emerging fields. Upon completion, students should be able to articulate issues relating to these technologies."
+ },
+ "WEB 287": {
+  "title": "Web E-Portfolio",
+  "desc": "This course covers the creation and organization of a web-based e-portfolio that includes a resume, references, and comprehensive academic and work samples. Emphasis is placed on creating an e-portfolio with solid design and demonstrable content, the production of a resume and self-promotional materials, and interview techniques. Upon completion, students should be able to present their own domain with included professional e-portfolio elements of resume, sample work, and related self-promotional materials."
+ },
+ "WEB 288": {
+  "title": "Global Perspectives in Media",
+  "desc": "This course introduces how global issues impact emerging technologies, industry standards, and practices in a technical field in comparison to the United States. Emphasis is placed on how a country's political and cultural traditions influences the use of media technologies. Upon completion, students should be able to identify and utilize political and cultural traditions when creating media."
+ },
+ "WEB 289": {
+  "title": "Web Dev Capstone Project",
+  "desc": "This course provides an opportunity to complete a significant Web technologies project from the design phase through implementation with minimal instructor support. Emphasis is placed on project definition, documentation, installation, testing, presentation, and training. Upon completion, students should be able to complete an Internet project from the definition phase through implementation."
+ },
+ "ACA 122": {
+  "title": "Transfer & Career Success",
+  "desc": "This course introduces students to career and transfer opportunities while building skills for academic success, career exploration, and transfer preparation, ensuring readiness for success in community college and beyond. Topics include transfer agreements with public and independent institutions, programs and processes that facilitate transfer, and transfer tools and resources; career topics include career exploration and information and skills such as resume writing, portfolio development, and professional communication. Upon completion, students will be able to identify the community college program that matches their transfer and career goals, navigate transfer policies and processes, use Transfer Guides, develop an academic plan for future success, and identify professional application materials."
+ },
+ "ECO 251": {
+  "title": "Principles of Microeconomics",
+  "desc": "This course introduces economic analysis of individual, business, and industry in the market economy. Topics include the price mechanism, supply and demand, optimizing economic behavior, costs and revenue, market structures, factor markets, income distribution, market failure, and government intervention. Upon completion, students should be able to identify and evaluate consumer and business alternatives in order to efficiently achieve economic objectives. Students seeking to take this course to meet the college transfer Social/Behavioral Sciences requirement may also take ECO 252 (no ECO prerequisites)."
+ },
+ "ENG 111": {
+  "title": "Writing and Inquiry",
+  "desc": "This course is designed to develop the ability to produce clear writing in a variety of genres and formats using a recursive process. Emphasis includes inquiry, analysis, effective use of rhetorical strategies, thesis development, audience awareness, and revision. Upon completion, students should be able to produce unified, coherent, well-developed essays using standard written English."
+ },
+ "ENG 112": {
+  "title": "Writing and Research in the Disciplines",
+  "desc": "This course, the second in a series of two, introduces research techniques, documentation styles, and writing strategies. Emphasis is placed on analyzing information and ideas and incorporating research findings into documented writing and research projects. Upon completion, students should be able to evaluate and synthesize information from primary and secondary sources using documentation appropriate to various disciplines."
+ },
+ "WBL 111": {
+  "title": "Work-Based Learning I",
+  "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+ },
+ "ART 111": {
+  "title": "Art Appreciation",
+  "desc": "This course introduces the origins and historical development of art. Emphasis is placed on the relationship of design principles to various art forms including but not limited to sculpture, painting, and architecture. Upon completion, students should be able to identify and analyze a variety of artistic styles, periods, and media. Students seeking to take this course to meet the college transfer humanities requirement may also take ART 114 or ART 115 (no ART prerequisites); Concepts related to media and technique will be introduced."
+ },
+ "BAS 120": {
+  "title": "Introduction to Analytics",
+  "desc": "This course introduces basic concepts and applications of analytics. Topics include an overview of the analytical process and the role of the analyst, applied descriptive statistics, and exploratory data analysis. Upon completion, students should be able to demonstrate a basic understanding of analytics for decision-making in business."
+ },
+ "BAS 121": {
+  "title": "Data Visualization",
+  "desc": "This course introduces key concepts in data visualization and reporting. Topics include concepts and methods used in graphical representation of data, exploration and reporting of data, and basic linear regression methods. Upon completion, students should be able to effectively use graphical tools to communicate insights about data."
+ },
+ "COM 231": {
+  "title": "Public Speaking",
+  "desc": "This course provides instruction and experience in preparation and delivery of speeches within a public setting and group discussion. Emphasis is placed on research, preparation, delivery, and evaluation of informative, persuasive, and special occasion public speaking. Upon completion, students should be able to prepare and deliver well-organized speeches and participate in group discussion with appropriate audiovisual support."
+ },
+ "MAT 121": {
+  "title": "Algebra/Trigonometry I",
+  "desc": "This course provides an integrated approach to technology and the skills required to manipulate, display, and interpret mathematical functions and formulas used in problem solving. Topics include the properties of plane and solid geometry, area and volume, and basic proportion applications; simplification, evaluation, and solving of algebraic equations and inequalities and radical functions; complex numbers; right triangle trigonometry; and systems of equations. Upon completion, students will be able to demonstrate the ability to use mathematics and technology for problem-solving, analyzing and communicating results."
+ },
+ "MAT 143": {
+  "title": "Quantitative Literacy",
+  "desc": "This course is designed to engage students in complex and realistic situations involving the mathematical phenomena of quantity, change and relationship, and uncertainty through project- and activity-based assessment. Emphasis is placed on authentic contexts which will introduce the concepts of numeracy, proportional reasoning, dimensional analysis, rates of growth, personal finance, consumer statistics, practical probabilities, and mathematics for citizenship. Upon completion, students should be able to utilize quantitative information as consumers and to make personal, professional, and civic decisions by decoding, interpreting, using, and communicating quantitative information found in modern media and encountered in everyday life."
+ },
+ "MAT 152": {
+  "title": "Statistical Methods I",
+  "desc": "This course provides a project-based approach to introductory statistics with an emphasis on using real-world data and statistical literacy. Topics include descriptive statistics, correlation and regression, basic probability, discrete and continuous probability distributions, confidence intervals and hypothesis testing. Upon completion, students should be able to use appropriate technology to describe important characteristics of a data set, draw inferences about a population from sample data, and interpret and communicate results."
+ },
+ "MAT 171": {
+  "title": "Precalculus Algebra",
+  "desc": "This course is designed to develop topics which are fundamental to the study of Calculus. Emphasis is placed on solving equations and inequalities, solving systems of equations and inequalities, and analysis of functions (absolute value, radical, polynomial, rational, exponential, and logarithmic) in multiple representations. Upon completion, students should be able to select and use appropriate models and techniques for finding solutions to algebra-related problems with and without technology."
+ },
+ "MAT 263": {
+  "title": "Brief Calculus",
+  "desc": "This course is designed to introduce concepts of differentiation and integration and their applications to solving problems. Topics include graphing, differentiation, and integration with emphasis on applications drawn from business, economics, and biological and behavioral sciences. Upon completion, students should be able to demonstrate an understanding of the use of basic calculus and technology to solve problems and to analyze and communicate results."
+ },
+ "PHI 240": {
+  "title": "Introduction to Ethics",
+  "desc": "This course introduces theories about the nature and foundations of moral judgments and applications to contemporary moral issues. Emphasis is placed on moral theories such as consequentialism, deontology, and virtue ethics. Upon completion, students should be able to apply various ethical theories to moral issues such as abortion, capital punishment, poverty, war, terrorism, the treatment of animals, and issues arising from new technologies. Students seeking to take this course to meet the college transfer humanities requirement may also take PHI 215 (no PHI prerequisites)."
+ },
+ "PSY 150": {
+  "title": "General Psychology",
+  "desc": "This course provides an overview of the scientific study of human behavior. Topics include history, methodology, biopsychology, sensation, perception, learning, motivation, cognition, abnormal behavior, personality theory, social psychology, and other relevant topics. Upon completion, students should be able to demonstrate a basic knowledge of the science of psychology."
+ },
+ "WBL 121": {
+  "title": "Work-Based Learning II",
+  "desc": "This course provides a work-based learning experience with a college-approved employer in an area related to the student's program of study. Emphasis is placed on integrating classroom learning with related work experience. Upon completion, students should be able to evaluate career selection, demonstrate employability skills, and satisfactorily perform work-related competencies."
+ }
+}

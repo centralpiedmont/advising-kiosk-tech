@@ -1,0 +1,54 @@
+{
+  "intro": {
+    "title": "What kind of IT hero are you?",
+    "blurb": "6 quick questions. Find the tech path that fits you.",
+    "icon": "compass"
+  },
+  "tieOrder": ["cyber", "apps", "data", "games", "start"],
+  "archetypes": {
+    "apps":  { "name": "The Builder",  "icon": "code",       "blurb": "You love turning ideas into things people actually use — apps, sites, and software." },
+    "data":  { "name": "The Analyst",  "icon": "chart",      "blurb": "You see the patterns others miss and let the data tell the story." },
+    "cyber": { "name": "The Defender", "icon": "shield",     "blurb": "You spot weaknesses before anyone else and love outsmarting the bad guys." },
+    "games": { "name": "The Creator",  "icon": "controller", "blurb": "You bring worlds to life — characters, games, and 3D you can step into." },
+    "start": { "name": "The Fixer",    "icon": "wrench",     "blurb": "You're the one everyone calls when tech breaks — and you make it work." }
+  },
+  "questions": [
+    { "prompt": "Pick your superpower", "answers": [
+      { "label": "Conjure new worlds",      "icon": "controller", "world": "games" },
+      { "label": "See hidden danger",       "icon": "shield",     "world": "cyber" },
+      { "label": "Read the patterns",       "icon": "chart",      "world": "data" },
+      { "label": "Build anything instantly","icon": "code",       "world": "apps" }
+    ]},
+    { "prompt": "Your ideal Saturday project?", "answers": [
+      { "label": "Design a game level",         "icon": "controller", "world": "games" },
+      { "label": "Make a slick little app",     "icon": "code",       "world": "apps" },
+      { "label": "Dig for a hidden trend",      "icon": "chart",      "world": "data" },
+      { "label": "Set up & fix the home network","icon": "wrench",    "world": "start" }
+    ]},
+    { "prompt": "When something breaks, you're the one who…", "answers": [
+      { "label": "Calmly fixes it",                "icon": "wrench", "world": "start" },
+      { "label": "Figures out who caused it",      "icon": "shield", "world": "cyber" },
+      { "label": "Builds a tool so it can't recur","icon": "code",   "world": "apps" },
+      { "label": "Charts how often it happens",    "icon": "chart",  "world": "data" }
+    ]},
+    { "prompt": "Which sounds most exciting?", "answers": [
+      { "label": "Stopping a cyberattack live", "icon": "shield",     "world": "cyber" },
+      { "label": "Shipping an app people love", "icon": "code",       "world": "apps" },
+      { "label": "Bringing a 3D character to life","icon": "controller","world": "games" },
+      { "label": "Predicting the future from data","icon": "chart",   "world": "data" }
+    ]},
+    { "prompt": "Pick a vibe", "answers": [
+      { "label": "Neon, controllers & concept art","icon": "controller","world": "games" },
+      { "label": "A wall of monitors & green code", "icon": "shield",   "world": "cyber" },
+      { "label": "Whiteboards full of charts",      "icon": "chart",    "world": "data" },
+      { "label": "A clean, labeled workshop",       "icon": "wrench",   "world": "start" }
+    ]},
+    { "prompt": "Five years from now, you want a job where you…", "answers": [
+      { "label": "Protect companies from hackers", "icon": "shield",     "world": "cyber" },
+      { "label": "Create games and animation",     "icon": "controller", "world": "games" },
+      { "label": "Build the apps people use",      "icon": "code",       "world": "apps" },
+      { "label": "Turn data into decisions",       "icon": "chart",      "world": "data" },
+      { "label": "Keep a team's tech running",     "icon": "wrench",     "world": "start" }
+    ]}
+  ]
+}

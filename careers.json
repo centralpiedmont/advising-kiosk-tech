@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "source": "U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics (OEWS)",
+    "wageVintage": "OEWS May 2025 (API period 2025 A01, annual median wage)",
+    "growthVintage": "Occupational Outlook Handbook 2024–2034 projections",
+    "geoDefault": "national",
+    "retrieved": "2026-06-09",
+    "method": "Pulled live from the BLS public data API (api.bls.gov/publicAPI/v2). No salary-aggregator sites used.",
+    "notes": [
+      "Penetration Tester, SOC Analyst, Security Analyst, Digital Forensics Analyst, and Incident Responder have no distinct BLS code — all map to Information Security Analysts (15-1212), national median $129,180.",
+      "Machine Learning / AI Engineer has no BLS code; mapped to Computer & Information Research Scientists (15-1221, $140,300). Data Scientists (15-2051, $120,230) is an equally defensible AI/ML proxy. Charlotte-area figure for 15-1221 is lower than national, so the national figure is used and is the more defensible choice.",
+      "Data Scientists (15-2051) run ~$12k HIGHER in the Charlotte metro ($132,460) than national ($120,230) due to banking-sector demand — a local upside worth highlighting.",
+      "Computer Network/User Support Specialists growth (-3%) is the OOH 'Computer Support Specialists' group rate; BLS does not split the two SOC codes.",
+      "Computer Network Support Specialists (15-1231) has no published NC state median (BLS suppressed)."
+    ]
+  },
+  "occupations": [
+    { "soc": "15-1252", "title": "Software Developers", "nationalMedian": 135980, "ncMedian": 134710, "charlotteMedian": 135920, "growthPct": 15, "url": "https://www.bls.gov/oes/current/oes151252.htm" },
+    { "soc": "15-1254", "title": "Web Developers", "nationalMedian": 92650, "ncMedian": 96610, "charlotteMedian": 101980, "growthPct": 7, "url": "https://www.bls.gov/oes/current/oes151254.htm" },
+    { "soc": "15-1255", "title": "Web and Digital Interface Designers", "nationalMedian": 104000, "ncMedian": 97990, "charlotteMedian": 94290, "growthPct": 7, "url": "https://www.bls.gov/oes/current/oes151255.htm" },
+    { "soc": "15-2051", "title": "Data Scientists", "nationalMedian": 120230, "ncMedian": 119090, "charlotteMedian": 132460, "growthPct": 34, "url": "https://www.bls.gov/oes/current/oes152051.htm" },
+    { "soc": "15-1221", "title": "Computer & Information Research Scientists", "nationalMedian": 140300, "ncMedian": 128370, "charlotteMedian": 102630, "growthPct": 20, "url": "https://www.bls.gov/oes/current/oes151221.htm" },
+    { "soc": "15-1242", "title": "Database Administrators and Architects", "nationalMedian": 104620, "ncMedian": 113900, "charlotteMedian": 113890, "growthPct": 4, "url": "https://www.bls.gov/oes/current/oes151242.htm" },
+    { "soc": "15-1212", "title": "Information Security Analysts", "nationalMedian": 129180, "ncMedian": 131540, "charlotteMedian": 131440, "growthPct": 29, "url": "https://www.bls.gov/oes/current/oes151212.htm" },
+    { "soc": "15-1244", "title": "Network & Computer Systems Administrators", "nationalMedian": 99130, "ncMedian": 95230, "charlotteMedian": 89990, "growthPct": -4, "url": "https://www.bls.gov/oes/current/oes151244.htm" },
+    { "soc": "15-1241", "title": "Computer Network Architects", "nationalMedian": 134050, "ncMedian": 127320, "charlotteMedian": 134410, "growthPct": 12, "url": "https://www.bls.gov/oes/current/oes151241.htm" },
+    { "soc": "15-1231", "title": "Computer Network Support Specialists", "nationalMedian": 76220, "ncMedian": null, "charlotteMedian": 75420, "growthPct": -3, "url": "https://www.bls.gov/oes/current/oes151231.htm" },
+    { "soc": "15-1232", "title": "Computer User Support Specialists", "nationalMedian": 61860, "ncMedian": 60120, "charlotteMedian": 60220, "growthPct": -3, "url": "https://www.bls.gov/oes/current/oes151232.htm" },
+    { "soc": "15-1251", "title": "Computer Programmers", "nationalMedian": 100390, "ncMedian": 81070, "charlotteMedian": 84720, "growthPct": -6, "url": "https://www.bls.gov/oes/current/oes151251.htm" },
+    { "soc": "27-1014", "title": "Special Effects Artists and Animators", "nationalMedian": 102030, "ncMedian": 88350, "charlotteMedian": 92340, "growthPct": 2, "url": "https://www.bls.gov/oes/current/oes271014.htm" },
+    { "soc": "27-1024", "title": "Graphic Designers", "nationalMedian": 62960, "ncMedian": 58450, "charlotteMedian": 59810, "growthPct": 2, "url": "https://www.bls.gov/oes/current/oes271024.htm" },
+    { "soc": "13-1082", "title": "Project Management Specialists", "nationalMedian": 102320, "ncMedian": 100820, "charlotteMedian": 105200, "growthPct": 6, "url": "https://www.bls.gov/oes/current/oes131082.htm" }
+  ],
+  "programs": {
+    "softwareeng-app-dev": [
+      { "title": "Software Developer", "soc": "15-1252", "medianUSD": 135980 },
+      { "title": "Mobile / Applications Developer", "soc": "15-1252", "medianUSD": 135980 }
+    ],
+    "softwareeng-full-stack": [
+      { "title": "Full-Stack Developer", "soc": "15-1252", "medianUSD": 135980 },
+      { "title": "Web Developer", "soc": "15-1254", "medianUSD": 92650 }
+    ],
+    "dataanalysis-analysis": [
+      { "title": "Data Analyst / Data Scientist", "soc": "15-2051", "medianUSD": 120230 },
+      { "title": "Business Intelligence Analyst", "soc": "15-2051", "medianUSD": 120230 }
+    ],
+    "dataanalysis-visualization": [
+      { "title": "Data Scientist", "soc": "15-2051", "medianUSD": 120230 },
+      { "title": "Data Visualization Designer", "soc": "15-1255", "medianUSD": 104000 }
+    ],
+    "dataanalysis-google": [
+      { "title": "Data Analyst", "soc": "15-2051", "medianUSD": 120230 },
+      { "title": "IT Project Manager", "soc": "13-1082", "medianUSD": 102320 }
+    ],
+    "artificial-intelligence": [
+      { "title": "Machine Learning / AI Engineer", "soc": "15-1221", "medianUSD": 140300 },
+      { "title": "Data Scientist", "soc": "15-2051", "medianUSD": 120230 }
+    ],
+    "cybersecurity-blueteam": [
+      { "title": "SOC Analyst / Information Security Analyst", "soc": "15-1212", "medianUSD": 129180 },
+      { "title": "Security Analyst", "soc": "15-1212", "medianUSD": 129180 }
+    ],
+    "cybersecurity-redteam": [
+      { "title": "Penetration Tester", "soc": "15-1212", "medianUSD": 129180 },
+      { "title": "Security Analyst", "soc": "15-1212", "medianUSD": 129180 }
+    ],
+    "cybersecurity-forensics": [
+      { "title": "Digital Forensics Analyst", "soc": "15-1212", "medianUSD": 129180 },
+      { "title": "Incident Responder", "soc": "15-1212", "medianUSD": 129180 }
+    ],
+    "cloud-networking": [
+      { "title": "Network / Cloud Administrator", "soc": "15-1244", "medianUSD": 99130 },
+      { "title": "Computer Network Architect", "soc": "15-1241", "medianUSD": 134050 }
+    ],
+    "it-technical-support": [
+      { "title": "IT Support Specialist", "soc": "15-1232", "medianUSD": 61860 },
+      { "title": "Network Support Specialist", "soc": "15-1231", "medianUSD": 76220 }
+    ],
+    "sgd-3d-modeling": [
+      { "title": "3D Animator", "soc": "27-1014", "medianUSD": 102030 },
+      { "title": "3D Modeler", "soc": "27-1014", "medianUSD": 102030 }
+    ],
+    "sgd-design": [
+      { "title": "Digital Designer", "soc": "15-1255", "medianUSD": 104000 },
+      { "title": "Graphic Designer", "soc": "27-1024", "medianUSD": 62960 }
+    ],
+    "sgd-programming": [
+      { "title": "Game Developer", "soc": "15-1252", "medianUSD": 135980 },
+      { "title": "Software Developer", "soc": "15-1252", "medianUSD": 135980 }
+    ]
+  }
+}

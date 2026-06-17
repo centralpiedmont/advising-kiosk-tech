@@ -1,0 +1,15 @@
+{
+  "name": "cpcc-degree-explorer-kiosk",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node gen-qr.js && node generate.js",
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4",
+    "nodemailer": "^6.9.0"
+  }
+}
