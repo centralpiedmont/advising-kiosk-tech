@@ -1,3 +1,9 @@
+> ⚠️ **Moved & archived.** This kiosk now lives in the unified monorepo **[centralpiedmont/degree-explorer](https://github.com/centralpiedmont/degree-explorer)** (tech · business · health — one engine, per-track config). This repository is read-only; do all future work in the monorepo.
+>
+> **Live preview:** https://centralpiedmont.github.io/degree-explorer/tech/
+
+---
+
 # CPCC Degree Explorer Kiosk
 
 An offline-first touchscreen web app for exploring Central Piedmont's 14 IT degree programs. Runs on a Raspberry Pi via balenaCloud at recruitment events (open houses, advising days, career fairs).
